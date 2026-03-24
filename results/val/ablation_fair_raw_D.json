@@ -1,0 +1,1745 @@
+[
+  {
+    "user_id": 6522696,
+    "ranked_ids": [
+      1145360,
+      632360,
+      1092790,
+      1102190,
+      588650,
+      1229490,
+      250900,
+      504230,
+      367520,
+      508440
+    ],
+    "explanations": {
+      "1145360": "Hades is a highly rated action game from 2020, matching the user's preference for action and indie themes.",
+      "632360": "Risk of Rain 2 offers a fast-paced multiplayer experience, aligning with the user's playstyle preferences.",
+      "1092790": "Inscryption is a 2021 indie game with a strong strategy component, fitting the user's thematic interests.",
+      "1102190": "Monster Train is a 2020 strategy game with high ratings, similar to Slay the Spire, which the user enjoyed.",
+      "588650": "Dead Cells is a fast-paced action game with overwhelming positive reviews, fitting the user's action theme preference.",
+      "1229490": "ULTRAKILL is a 2020 action game with a fast-paced nature, aligning with the user's playstyle and thematic interests.",
+      "250900": "The Binding of Isaac: Rebirth is a well-regarded indie game with action elements, fitting the user's preferences.",
+      "504230": "Celeste is a highly rated indie game from 2018, aligning with the user's interest in indie games.",
+      "367520": "Hollow Knight is a critically acclaimed indie action game, matching the user's thematic interests.",
+      "508440": "Totally Accurate Battle Simulator is a 2021 strategy game with a unique indie twist, fitting the user's preferences."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "strategy",
+      "indie"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 7844436,
+    "ranked_ids": [
+      550,
+      218620,
+      242760,
+      359550,
+      203160,
+      431960,
+      444090,
+      292030,
+      945360,
+      379720
+    ],
+    "explanations": {
+      "550": "Left 4 Dead 2 offers cooperative multiplayer action, aligning with the user's preference for action and multiplayer games.",
+      "218620": "PAYDAY 2 is a multiplayer action game that fits the user's interest in competitive and strategy gameplay.",
+      "242760": "The Forest combines survival strategy with multiplayer elements, matching the user's inferred themes.",
+      "359550": "Rainbow Six Siege is a tactical multiplayer shooter, aligning with the user's competitive and strategy interests.",
+      "203160": "Tomb Raider offers action-packed single-player gameplay, fitting the user's action theme preference.",
+      "431960": "Wallpaper Engine is a highly rated, affordable tool that fits within the user's price range.",
+      "444090": "Paladins is a free-to-play multiplayer shooter, aligning with the user's multiplayer and competitive interests.",
+      "292030": "The Witcher 3 is a highly acclaimed action RPG, slightly above the price range but strongly thematic.",
+      "945360": "Among Us is a popular multiplayer game that encourages strategy and social interaction.",
+      "379720": "DOOM offers intense action gameplay, fitting the user's preference for action games."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "multiplayer",
+      "strategy"
+    ],
+    "uua_confidence": "medium"
+  },
+  {
+    "user_id": 7093803,
+    "ranked_ids": [
+      353540,
+      304410,
+      219890,
+      365510,
+      357300,
+      504230,
+      224760,
+      365510,
+      427520,
+      558990
+    ],
+    "explanations": {
+      "353540": "Stephen's Sausage Roll is a highly rated puzzle game, aligning with the user's preference for challenging puzzles.",
+      "304410": "Hexcells Infinite offers more of the Hexcells puzzle experience, which the user has enjoyed before.",
+      "219890": "Antichamber is a mind-bending puzzle game similar to The Witness, which the user has played.",
+      "365510": "Flip is a free puzzle game, fitting the user's preference for puzzle games and free games.",
+      "357300": "Snakebird is a well-received puzzle game that fits the user's interest in unique puzzle mechanics.",
+      "504230": "Celeste, while primarily a platformer, offers challenging puzzles and a strong single-player experience.",
+      "224760": "FEZ is a critically acclaimed puzzle-platformer that aligns with the user's interest in puzzle games.",
+      "427520": "Factorio is a simulation game that matches the user's interest in simulation and puzzle elements.",
+      "558990": "Opus Magnum is a puzzle game with a strong emphasis on creativity and problem-solving, similar to SpaceChem."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "puzzle",
+      "simulation"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 1545931,
+    "ranked_ids": [
+      548430,
+      526870,
+      242760,
+      361420,
+      275850,
+      244850,
+      1172620,
+      594650,
+      284160,
+      552100
+    ],
+    "explanations": {
+      "548430": "Deep Rock Galactic offers co-op multiplayer action, aligning with the user's preference for multiplayer and action games.",
+      "526870": "Satisfactory provides a strategic and cooperative multiplayer experience, fitting the user's strategy and multiplayer themes.",
+      "242760": "The Forest is a survival game with co-op multiplayer, matching the user's interest in multiplayer and action themes.",
+      "361420": "ASTRONEER offers a cooperative multiplayer experience with exploration, aligning with the user's multiplayer playstyle.",
+      "275850": "No Man's Sky provides a vast multiplayer universe to explore, fitting the user's multiplayer and action interests.",
+      "244850": "Space Engineers offers strategic building and multiplayer gameplay, aligning with the user's strategy and multiplayer themes.",
+      "1172620": "Sea of Thieves 2023 Edition offers a multiplayer pirate adventure, fitting the user's multiplayer and action preferences.",
+      "594650": "Hunt: Showdown is a multiplayer action game, aligning with the user's interest in action and multiplayer themes.",
+      "284160": "BeamNG.drive offers a unique driving simulation experience with multiplayer elements, fitting the user's multiplayer interest.",
+      "552100": "Brick Rigs provides a creative multiplayer building experience, aligning with the user's multiplayer playstyle."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "strategy",
+      "action",
+      "multiplayer"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 11342894,
+    "ranked_ids": [
+      268500,
+      502370,
+      552500,
+      281610,
+      281990,
+      392110,
+      544610,
+      204880,
+      262060,
+      377160
+    ],
+    "explanations": {
+      "268500": "XCOM® 2 offers tactical strategy gameplay similar to BATTLETECH.",
+      "502370": "Warhammer 40000: Sanctus Reach aligns with the user's interest in Warhammer strategy games.",
+      "552500": "Warhammer: Vermintide 2 provides action and multiplayer elements at an affordable price.",
+      "281610": "Homeworld: Deserts of Kharak is a strategy game with a strong tactical component.",
+      "281990": "Stellaris is a grand strategy game that fits the user's preference for long sessions.",
+      "392110": "ENDLESS™ Space 2 is a strategic game with competitive elements.",
+      "544610": "Battlestar Galactica Deadlock offers tactical space combat, aligning with the user's strategy theme.",
+      "204880": "Sins of a Solar Empire®: Rebellion is a strategy game with multiplayer features.",
+      "262060": "Darkest Dungeon® provides a challenging tactical experience.",
+      "377160": "Fallout 4 offers action and exploration, fitting the user's action theme."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "strategy",
+      "action",
+      "multiplayer"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 13899512,
+    "ranked_ids": [
+      242760,
+      548430,
+      377160,
+      239140,
+      218620,
+      232090,
+      22380,
+      205100,
+      282070,
+      457140
+    ],
+    "explanations": {
+      "242760": "The Forest offers a strong survival and multiplayer experience, aligning with the user's preferences.",
+      "548430": "Deep Rock Galactic is a co-op multiplayer game with exploration elements, fitting the user's playstyle.",
+      "377160": "Fallout 4 provides a mix of exploration and survival elements, matching the user's interests.",
+      "239140": "Dying Light combines survival and multiplayer elements, suitable for the user's themes.",
+      "218620": "PAYDAY 2 is a cooperative multiplayer game, aligning with the user's playstyle.",
+      "232090": "Killing Floor 2 offers multiplayer and co-op gameplay, fitting the user's preferences.",
+      "22380": "Fallout: New Vegas provides a rich exploration and survival experience, matching the user's themes.",
+      "205100": "Dishonored offers strategic gameplay with exploration elements, aligning with the user's interests.",
+      "282070": "This War of Mine provides a unique survival strategy experience, fitting the user's themes.",
+      "457140": "Oxygen Not Included offers a strategic survival experience, aligning with the user's preferences."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "survival",
+      "strategy",
+      "multiplayer"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 9483979,
+    "ranked_ids": [
+      425580,
+      456750,
+      403640,
+      379720,
+      312660,
+      205100,
+      1361320,
+      391220,
+      203160,
+      234140
+    ],
+    "explanations": {
+      "425580": "The Room Two is a direct sequel to The Room, which the user enjoyed, and fits the puzzle theme.",
+      "456750": "The Room Three continues the puzzle theme from The Room series, which the user has shown interest in.",
+      "403640": "Dishonored 2 offers a strong action experience similar to Prey, aligning with the user's action theme preference.",
+      "379720": "DOOM is a highly rated action shooter, fitting the user's interest in action and shooter games.",
+      "312660": "Sniper Elite 4 is a shooter game that aligns with the user's interest in Sniper Ghost Warrior 3.",
+      "205100": "Dishonored provides a strong action experience, similar to Prey, and is highly rated.",
+      "1361320": "The Room 4: Old Sins continues the puzzle theme from The Room series, which the user has enjoyed.",
+      "391220": "Rise of the Tomb Raider offers action and puzzle elements, fitting the user's inferred themes.",
+      "203160": "Tomb Raider provides a mix of action and puzzle gameplay, aligning with the user's preferences.",
+      "234140": "Mad Max offers an action-packed experience, similar to Dead Island, which the user has played."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "puzzle",
+      "shooter"
+    ],
+    "uua_confidence": "medium"
+  },
+  {
+    "user_id": 10265180,
+    "ranked_ids": [
+      403640,
+      201810,
+      480490,
+      292030,
+      612880,
+      362890,
+      239140,
+      377160,
+      418370,
+      552520
+    ],
+    "explanations": {
+      "403640": "Dishonored 2 is a direct sequel to Dishonored, matching the user's interest in stealth and action.",
+      "201810": "Wolfenstein: The New Order offers a strong action-shooter experience similar to DOOM.",
+      "480490": "Prey combines action and stealth elements, aligning with the user's preferences.",
+      "292030": "The Witcher® 3: Wild Hunt is a highly acclaimed action RPG, fitting the user's interest in action games.",
+      "612880": "Wolfenstein II: The New Colossus continues the action-packed shooter experience from the first game.",
+      "362890": "Black Mesa is a modern remake of Half-Life, offering a classic shooter experience.",
+      "239140": "Dying Light combines action and survival elements, fitting the user's interest in action games.",
+      "377160": "Fallout 4 offers a mix of action and RPG elements, similar to the user's interest in immersive single-player experiences.",
+      "418370": "Resident Evil 7 Biohazard provides a horror-action experience with a strong narrative.",
+      "552520": "Far Cry® 5 offers an open-world action experience, aligning with the user's interest in action and shooter games."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "shooter",
+      "stealth"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 5088178,
+    "ranked_ids": [
+      1580560,
+      461840,
+      367580,
+      1505010,
+      1470970,
+      1170960,
+      592240,
+      1237970,
+      726120,
+      1397540
+    ],
+    "explanations": {
+      "1580560": "Puzzledorf is a highly rated puzzle game that fits the user's puzzle theme preference.",
+      "461840": "Zenge is a very positively rated puzzle game from 2016, aligning with the user's preferences.",
+      "367580": "Hook is an overwhelmingly positively rated puzzle game, matching the user's interest in puzzle games.",
+      "1505010": "Blockdown is a free puzzle game with a high positive rating, fitting the user's budget and theme.",
+      "1470970": "GraviFire is a positively rated puzzle game that aligns with the user's puzzle theme preference.",
+      "1170960": "The Eye of Borrack is a positively rated puzzle game within the user's price range.",
+      "592240": "Jupiteration is a positively rated game within the user's price range, fitting the casual theme.",
+      "1237970": "Titanfall® 2 is a very positively rated game at a low price, offering a different experience within budget.",
+      "726120": "Beyond the Wall is a positively rated game that fits the user's casual playstyle.",
+      "1397540": "On Pixels: A lights out game is a positively rated puzzle game that fits the user's preferences."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "puzzle",
+      "casual"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 7035586,
+    "ranked_ids": [
+      292030,
+      1174180,
+      1151340,
+      552520,
+      489830,
+      782330,
+      374320,
+      1151640,
+      379720,
+      412020
+    ],
+    "explanations": {
+      "292030": "The Witcher® 3: Wild Hunt is a highly acclaimed RPG with a strong story-driven and open-world experience, aligning well with the user's preferences.",
+      "1174180": "Red Dead Redemption 2 offers a rich open-world and story-driven gameplay, fitting the user's playstyle and themes.",
+      "1151340": "Fallout 76 expands on the RPG and sci-fi elements the user enjoys, similar to Fallout 4.",
+      "552520": "Far Cry® 5 provides an action-packed open-world experience, matching the user's interest in action and story-driven games.",
+      "489830": "The Elder Scrolls V: Skyrim Special Edition is a classic open-world RPG that aligns with the user's preferences for story-driven experiences.",
+      "782330": "DOOM Eternal offers intense action gameplay, appealing to the user's interest in action themes.",
+      "374320": "DARK SOULS™ III is known for its challenging action RPG elements, which may appeal to the user's taste for action and RPGs.",
+      "1151640": "Horizon Zero Dawn™ Complete Edition combines sci-fi and action in an open-world setting, fitting the user's thematic interests.",
+      "379720": "DOOM provides a classic action experience, aligning with the user's preference for action games.",
+      "412020": "Metro Exodus offers a story-driven sci-fi experience, resonating with the user's interest in sci-fi and narrative-driven games."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "rpg",
+      "sci-fi"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 5974606,
+    "ranked_ids": [
+      686810,
+      581320,
+      242860,
+      447820,
+      589290,
+      424030,
+      633460,
+      222880,
+      231430,
+      379430
+    ],
+    "explanations": {
+      "686810": "Hell Let Loose offers a realistic military shooter experience similar to Post Scriptum.",
+      "581320": "Insurgency: Sandstorm is a tactical shooter with multiplayer elements, fitting the user's playstyle.",
+      "242860": "Verdun provides a historical military shooter experience, aligning with the user's interests.",
+      "447820": "Day of Infamy is a WWII shooter with realistic gameplay, matching the user's preferences.",
+      "589290": "Holdfast: Nations At War offers multiplayer military simulation, fitting the user's themes.",
+      "424030": "War of Rights is a historical military simulation game, aligning with the user's interests.",
+      "633460": "Tannenberg is a WWI shooter with realistic elements, similar to Verdun.",
+      "222880": "Insurgency offers tactical multiplayer shooter gameplay, fitting the user's playstyle.",
+      "231430": "Company of Heroes 2 is a military strategy game that complements the user's interest in military themes.",
+      "379430": "Kingdom Come: Deliverance offers a realistic medieval simulation experience, appealing to the user's preference for realism."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "shooter",
+      "military",
+      "simulation"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 9952717,
+    "ranked_ids": [
+      203160,
+      238320,
+      379720,
+      239140,
+      242760,
+      883710,
+      271590,
+      414340,
+      424840,
+      812140
+    ],
+    "explanations": {
+      "203160": "Tomb Raider offers action and adventure similar to Rise of the Tomb Raider, fitting the user's action theme.",
+      "238320": "Outlast is a horror game that aligns well with the user's interest in horror titles like Outlast 2.",
+      "379720": "DOOM provides intense action gameplay, matching the user's preference for action-packed games.",
+      "239140": "Dying Light combines action and horror elements, resonating with the user's themes.",
+      "242760": "The Forest is a survival horror game, fitting the user's interest in horror and action.",
+      "883710": "Resident Evil 2 is a highly rated horror game, aligning with the user's interest in the Resident Evil series.",
+      "271590": "Grand Theft Auto V offers action and multiplayer experiences, aligning with the user's playstyle.",
+      "414340": "Hellblade: Senua's Sacrifice is a story-driven action game, fitting the user's preference for narrative experiences.",
+      "424840": "Little Nightmares is a horror-themed game that matches the user's interest in horror titles.",
+      "812140": "Assassin's Creed® Odyssey offers action and stealth elements, aligning with the user's themes."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "horror",
+      "stealth"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 6883439,
+    "ranked_ids": [
+      570940,
+      335300,
+      524220,
+      632360,
+      1237970,
+      548430,
+      552500,
+      397540,
+      435150,
+      678960
+    ],
+    "explanations": {
+      "570940": "DARK SOULS™: REMASTERED fits the user's interest in action RPGs and is within the price range.",
+      "335300": "DARK SOULS™ II: Scholar of the First Sin aligns with the user's preference for action RPGs.",
+      "524220": "NieR:Automata™ offers a strong story-driven action RPG experience.",
+      "632360": "Risk of Rain 2 provides a co-op multiplayer experience, matching the user's multiplayer theme.",
+      "1237970": "Titanfall® 2 is a highly rated action game available at a very low price.",
+      "548430": "Deep Rock Galactic is a co-op multiplayer game with overwhelming positive reviews.",
+      "552500": "Warhammer: Vermintide 2 is a co-op action game that fits the user's multiplayer preference.",
+      "397540": "Borderlands 3 offers a multiplayer action RPG experience, aligning with the user's themes.",
+      "435150": "Divinity: Original Sin 2 - Definitive Edition is a highly rated RPG with co-op features.",
+      "678960": "CODE VEIN is an action RPG similar to DARK SOULS™ series, fitting the user's interests."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "rpg",
+      "multiplayer"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 1155858,
+    "ranked_ids": [
+      292030,
+      203160,
+      750920,
+      1174180,
+      1145360,
+      379720,
+      255710,
+      524220,
+      1151640,
+      752590
+    ],
+    "explanations": {
+      "292030": "The Witcher® 3: Wild Hunt is a highly acclaimed story-driven action game, aligning with the user's preference for story-driven and action themes.",
+      "203160": "Tomb Raider offers action and story-driven gameplay similar to Rise of the Tomb Raider™, which the user enjoyed.",
+      "750920": "Shadow of the Tomb Raider: Definitive Edition is a free game that continues the action and story-driven experience of the Tomb Raider series.",
+      "1174180": "Red Dead Redemption 2 is a story-driven action game with a rich narrative, fitting the user's preferences.",
+      "1145360": "Hades is a highly rated action game with a strong narrative, appealing to the user's interest in story-driven and action themes.",
+      "379720": "DOOM is a fast-paced action game that matches the user's interest in action-packed experiences.",
+      "255710": "Cities: Skylines is a simulation game that aligns with the user's interest in simulation games like Surviving Mars.",
+      "524220": "NieR:Automata™ combines action and story-driven elements, fitting the user's thematic preferences.",
+      "1151640": "Horizon Zero Dawn™ Complete Edition offers a story-driven action experience with a strong narrative.",
+      "752590": "A Plague Tale: Innocence is a story-driven game with a compelling narrative, aligning with the user's preference for story-driven experiences."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "story-driven",
+      "simulation"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 11422351,
+    "ranked_ids": [
+      270880,
+      391220,
+      255710,
+      787860,
+      284160,
+      516750,
+      621060,
+      447020,
+      675010,
+      203140
+    ],
+    "explanations": {
+      "270880": "American Truck Simulator aligns with the user's interest in simulation games like Euro Truck Simulator 2.",
+      "391220": "Rise of the Tomb Raider™ fits the user's adventure and action preferences, similar to Tomb Raider.",
+      "255710": "Cities: Skylines is a top-rated simulation game, matching the user's interest in simulation titles.",
+      "787860": "Farming Simulator 19 offers a simulation experience, resonating with the user's playstyle.",
+      "284160": "BeamNG.drive provides a realistic simulation experience, appealing to the user's simulation theme.",
+      "516750": "My Summer Car combines simulation and single-player elements, fitting the user's preferences.",
+      "621060": "PC Building Simulator is a niche simulation game, aligning with the user's interest in simulation.",
+      "447020": "Farming Simulator 17 offers a similar experience to Farming Simulator 19, fitting the user's simulation interest.",
+      "675010": "MudRunner provides a unique simulation experience, aligning with the user's interest in simulation games.",
+      "203140": "Hitman: Absolution™ offers action and adventure elements, similar to the user's interest in Tomb Raider."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "simulation",
+      "action",
+      "adventure"
+    ],
+    "uua_confidence": "medium"
+  },
+  {
+    "user_id": 8006595,
+    "ranked_ids": [
+      379720,
+      350080,
+      782330,
+      292030,
+      480490,
+      412020,
+      362890,
+      286690,
+      234140,
+      287700
+    ],
+    "explanations": {
+      "379720": "DOOM is a highly rated action shooter that fits the user's preference for intense single-player experiences.",
+      "350080": "Wolfenstein: The Old Blood is a prequel to a game the user enjoyed, offering similar action-packed gameplay.",
+      "782330": "DOOM Eternal is a modern shooter with high ratings, aligning with the user's interest in action and shooter themes.",
+      "292030": "The Witcher® 3: Wild Hunt offers a rich single-player experience with action elements, fitting the user's playstyle.",
+      "480490": "Prey is a well-rated action game with both single-player and multiplayer modes, matching the user's preferences.",
+      "412020": "Metro Exodus is a highly rated shooter with a strong narrative, suitable for long gaming sessions.",
+      "362890": "Black Mesa is a reimagining of a classic shooter, offering a nostalgic yet fresh experience for action fans.",
+      "286690": "Metro 2033 Redux is a well-regarded shooter that complements the user's interest in atmospheric action games.",
+      "234140": "Mad Max provides an open-world action experience with vehicular combat, aligning with the user's action theme.",
+      "287700": "METAL GEAR SOLID V: THE PHANTOM PAIN offers a blend of action and stealth, appealing to the user's diverse playstyle."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "shooter"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 7688010,
+    "ranked_ids": [
+      927380,
+      834530,
+      1105500,
+      1388590,
+      524220,
+      1145360,
+      447530,
+      774171,
+      582010,
+      1167450
+    ],
+    "explanations": {
+      "927380": "Yakuza Kiwami 2 is a strong thematic match with action and story-driven elements, similar to Yakuza 0.",
+      "834530": "Yakuza Kiwami continues the action-packed, story-driven experience from Yakuza 0.",
+      "1105500": "Yakuza 4 Remastered offers a continuation of the action and narrative style found in Yakuza 0.",
+      "1388590": "Yakuza 6: The Song of Life is a direct continuation of the Yakuza series, fitting the user's action theme.",
+      "524220": "NieR:Automata™ combines action and story-driven gameplay, aligning with the user's preferences.",
+      "1145360": "Hades offers a highly rated action experience with a strong narrative, fitting the user's playstyle.",
+      "447530": "VA-11 Hall-A: Cyberpunk Bartender Action provides a unique story-driven experience with anime influences.",
+      "774171": "Muse Dash is a budget-friendly anime-themed game with positive reviews, fitting the user's interests.",
+      "582010": "Monster Hunter: World offers action and simulation elements, aligning with the user's themes.",
+      "1167450": "DAEMON X MACHINA provides anime-style action gameplay, matching the user's thematic interests."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "simulation",
+      "anime"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 11129469,
+    "ranked_ids": [
+      292030,
+      1174180,
+      582160,
+      524220,
+      814380,
+      1145360,
+      1113000,
+      555950,
+      374320,
+      637650
+    ],
+    "explanations": {
+      "292030": "The Witcher® 3: Wild Hunt is a highly acclaimed open-world RPG, aligning with the user's interest in story-driven, single-player experiences.",
+      "1174180": "Red Dead Redemption 2 offers a rich open-world action experience, fitting the user's preference for story-driven games.",
+      "582160": "Assassin's Creed® Origins provides an open-world action RPG experience similar to Assassin's Creed® Odyssey.",
+      "524220": "NieR:Automata™ combines action and RPG elements with a strong narrative, matching the user's thematic interests.",
+      "814380": "Sekiro™: Shadows Die Twice - GOTY Edition offers challenging action gameplay with a strong narrative focus.",
+      "1145360": "Hades is a highly rated action RPG with a compelling story, fitting the user's playstyle preferences.",
+      "1113000": "Persona 4 Golden is a story-driven RPG with strong narrative elements, aligning with the user's interests.",
+      "555950": "Danganronpa Another Episode: Ultra Despair Girls expands on the visual novel series the user enjoys.",
+      "374320": "DARK SOULS™ III offers challenging action RPG gameplay, appealing to the user's interest in action and RPG themes.",
+      "637650": "FINAL FANTASY XV WINDOWS EDITION is an open-world RPG with a strong narrative, fitting the user's preferences."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "rpg",
+      "visual novel",
+      "open world"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 3935446,
+    "ranked_ids": [
+      359550,
+      252490,
+      242760,
+      578080,
+      394360,
+      381210,
+      222880,
+      346110,
+      739630,
+      227300
+    ],
+    "explanations": {
+      "359550": "Tom Clancy's Rainbow Six® Siege is a tactical multiplayer shooter that aligns with the user's preference for action and multiplayer games.",
+      "252490": "Rust offers a multiplayer survival experience with combat elements, fitting the user's action and multiplayer themes.",
+      "242760": "The Forest combines survival and action in a multiplayer setting, matching the user's inferred themes.",
+      "578080": "PUBG: BATTLEGROUNDS is a battle royale game with a strong multiplayer focus, aligning with the user's playstyle.",
+      "394360": "Hearts of Iron IV offers strategic multiplayer gameplay, appealing to the user's interest in multiplayer experiences.",
+      "381210": "Dead by Daylight is a multiplayer horror game with action elements, fitting the user's preferences.",
+      "222880": "Insurgency is a tactical shooter with a strong multiplayer component, aligning with the user's playstyle.",
+      "346110": "ARK: Survival Evolved offers multiplayer survival with action elements, matching the user's themes.",
+      "739630": "Phasmophobia is a cooperative multiplayer horror game, appealing to the user's multiplayer interest.",
+      "227300": "Euro Truck Simulator 2 provides a unique multiplayer experience, offering long sessions that suit the user's playstyle."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "multiplayer"
+    ],
+    "uua_confidence": "medium"
+  },
+  {
+    "user_id": 11982458,
+    "ranked_ids": [
+      248820,
+      622650,
+      247080,
+      1266690,
+      221640,
+      422970,
+      238460,
+      212680,
+      294100,
+      433340
+    ],
+    "explanations": {
+      "248820": "Risk of Rain offers a sci-fi theme with a high positive rating and fits within the price range.",
+      "622650": "Bendy and the Ink Machine is a horror game that matches the user's theme preference and is within the price range.",
+      "247080": "Crypt of the NecroDancer combines rhythm elements with a high positive rating, aligning with the user's interests.",
+      "1266690": "Dark Deception: Monsters & Mortals expands on the horror theme from the user's history.",
+      "221640": "Super Hexagon is a rhythm-based game with overwhelming positive reviews, fitting the user's theme.",
+      "422970": "Devil Daggers offers a horror experience with a high positive rating and is affordable.",
+      "238460": "BattleBlock Theater provides a unique single-player experience with a high positive rating.",
+      "212680": "FTL: Faster Than Light is a sci-fi game with overwhelming positive reviews, fitting the user's interests.",
+      "294100": "RimWorld offers a sci-fi theme with overwhelming positive reviews, though slightly above the price range.",
+      "433340": "Slime Rancher is a highly rated game that fits within the price range and offers a unique experience."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "sci-fi",
+      "rhythm",
+      "horror"
+    ],
+    "uua_confidence": "medium"
+  },
+  {
+    "user_id": 8358396,
+    "ranked_ids": [
+      550,
+      945360,
+      218620,
+      304930,
+      700330,
+      223470,
+      322500,
+      22380,
+      238320,
+      274170
+    ],
+    "explanations": {
+      "550": "Left 4 Dead 2 is a fast-paced co-op multiplayer game, aligning with the user's preference for action and multiplayer themes.",
+      "945360": "Among Us is a popular multiplayer game that fits the user's interest in social and cooperative gameplay.",
+      "218620": "PAYDAY 2 offers cooperative multiplayer action, matching the user's playstyle and thematic interests.",
+      "304930": "Unturned is a free-to-play multiplayer survival game, fitting the user's budget and multiplayer preference.",
+      "700330": "SCP: Secret Laboratory is a free multiplayer horror game, aligning with the user's horror and multiplayer themes.",
+      "223470": "POSTAL 2 is a low-cost action game with a unique style, appealing to the user's interest in niche action games.",
+      "322500": "SUPERHOT is a fast-paced action game, matching the user's interest in action and the price range.",
+      "22380": "Fallout: New Vegas offers action and exploration, fitting the user's interest in action games.",
+      "238320": "Outlast is a horror game that fits the user's interest in horror themes and is within the budget.",
+      "274170": "Hotline Miami 2: Wrong Number is a fast-paced action game, aligning with the user's preference for action and challenging gameplay."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "horror",
+      "multiplayer"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 11801022,
+    "ranked_ids": [
+      268050,
+      601430,
+      214490,
+      952060,
+      424840,
+      238320,
+      319630,
+      108710,
+      377160,
+      1174180
+    ],
+    "explanations": {
+      "268050": "The Evil Within matches the user's horror theme and is story-driven.",
+      "601430": "The Evil Within 2 continues the horror theme with strong narrative elements.",
+      "214490": "Alien: Isolation offers a horror experience with a strong single-player story.",
+      "952060": "Resident Evil 3 fits the user's horror preference and is a recent release.",
+      "424840": "Little Nightmares provides a horror adventure similar to Little Nightmares II.",
+      "238320": "Outlast is a highly rated horror game that aligns with the user's interests.",
+      "319630": "Life is Strange offers a story-driven adventure with puzzle elements.",
+      "108710": "Alan Wake combines horror and adventure, fitting the user's themes.",
+      "377160": "Fallout 4 offers a story-driven adventure with exploration elements.",
+      "1174180": "Red Dead Redemption 2 is a highly rated adventure game with a strong narrative."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "horror",
+      "puzzle",
+      "adventure"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 3110611,
+    "ranked_ids": [
+      374320,
+      379720,
+      524220,
+      239140,
+      391220,
+      814380,
+      287700,
+      403640,
+      883710,
+      414340
+    ],
+    "explanations": {
+      "374320": "DARK SOULS™ III is a highly rated RPG from 2016, matching the user's interest in RPGs and action games.",
+      "379720": "DOOM is a 2016 shooter with overwhelming positive reviews, fitting the user's preference for action and shooter games.",
+      "524220": "NieR:Automata™ offers a blend of RPG and action elements, aligning with the user's thematic interests.",
+      "239140": "Dying Light combines action and horror, matching the user's interest in both genres.",
+      "391220": "Rise of the Tomb Raider™ is a story-driven action game from 2016, fitting the user's playstyle and thematic preferences.",
+      "814380": "Sekiro™: Shadows Die Twice - GOTY Edition is a highly rated action game, aligning with the user's interest in challenging RPGs.",
+      "287700": "METAL GEAR SOLID V: THE PHANTOM PAIN is a well-regarded action game with a strong narrative, matching the user's playstyle.",
+      "403640": "Dishonored 2 is a story-driven action game from 2016, fitting the user's preference for single-player experiences.",
+      "883710": "Resident Evil 2 is a highly rated horror game, aligning with the user's interest in horror themes.",
+      "414340": "Hellblade: Senua's Sacrifice is a story-driven action game with horror elements, matching the user's thematic interests."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "rpg",
+      "action",
+      "shooter",
+      "horror"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 10220438,
+    "ranked_ids": [
+      550,
+      271590,
+      377160,
+      218620,
+      252490,
+      239140,
+      22380,
+      20510,
+      379720,
+      287390
+    ],
+    "explanations": {
+      "550": "Left 4 Dead 2 is a cooperative multiplayer shooter, aligning with the user's action and shooter preferences.",
+      "271590": "Grand Theft Auto V offers an open-world multiplayer experience, fitting the user's playstyle and themes.",
+      "377160": "Fallout 4 provides an open-world survival experience, matching the user's interest in survival and action.",
+      "218620": "PAYDAY 2 is a multiplayer action game, aligning with the user's preference for action and multiplayer games.",
+      "252490": "Rust is a survival multiplayer game, fitting the user's themes of survival and multiplayer playstyle.",
+      "239140": "Dying Light combines action and survival in an open-world setting, matching the user's inferred themes.",
+      "22380": "Fallout: New Vegas offers an open-world action experience, aligning with the user's preferences.",
+      "20510": "S.T.A.L.K.E.R.: Clear Sky is a survival shooter, fitting the user's interest in survival and shooter games.",
+      "379720": "DOOM is a fast-paced action shooter, aligning with the user's preference for action and shooter games.",
+      "287390": "Metro: Last Light Redux is a survival shooter, fitting the user's interest in survival and shooter themes."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "survival",
+      "shooter"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 12603703,
+    "ranked_ids": [
+      1174180,
+      581320,
+      1144200,
+      239140,
+      686810,
+      359550,
+      270880,
+      412020,
+      379430,
+      252490
+    ],
+    "explanations": {
+      "1174180": "Red Dead Redemption 2 offers a story-driven action experience similar to Days Gone.",
+      "581320": "Insurgency: Sandstorm is a multiplayer action game akin to Arma 3 and Squad.",
+      "1144200": "Ready or Not is a tactical multiplayer shooter, aligning with the user's interest in Arma 3.",
+      "239140": "Dying Light combines action and RPG elements, similar to Nioh: Complete Edition.",
+      "686810": "Hell Let Loose is a multiplayer war simulation game, fitting the user's action and simulation themes.",
+      "359550": "Tom Clancy's Rainbow Six® Siege is a tactical multiplayer shooter, similar to Zero Hour.",
+      "270880": "American Truck Simulator is a simulation game, aligning with Euro Truck Simulator 2.",
+      "412020": "Metro Exodus offers a story-driven action experience, similar to Alien: Isolation.",
+      "379430": "Kingdom Come: Deliverance is a story-driven RPG, akin to The Witcher® 3: Wild Hunt.",
+      "252490": "Rust is a multiplayer survival game, fitting the user's interest in action and multiplayer."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "rpg",
+      "simulation"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 12685214,
+    "ranked_ids": [
+      242760,
+      346110,
+      105600,
+      218620,
+      359550,
+      945360,
+      457140,
+      239140,
+      221100,
+      305620
+    ],
+    "explanations": {
+      "242760": "The Forest offers a strong survival multiplayer experience similar to Rust.",
+      "346110": "ARK: Survival Evolved is a survival game with multiplayer elements, fitting the user's preferences.",
+      "105600": "Terraria provides a co-op survival experience, aligning with the user's playstyle.",
+      "218620": "PAYDAY 2 offers cooperative multiplayer gameplay, matching the user's playstyle tags.",
+      "359550": "Rainbow Six Siege is a competitive multiplayer game, aligning with the user's inferred themes.",
+      "945360": "Among Us is a popular multiplayer game with a strong social aspect, fitting the user's multiplayer interest.",
+      "457140": "Oxygen Not Included is a survival game with complex mechanics, appealing to long-session players.",
+      "239140": "Dying Light combines survival and multiplayer elements, fitting the user's preferences.",
+      "221100": "DayZ is a survival multiplayer game, strongly matching the user's inferred themes.",
+      "305620": "The Long Dark offers a challenging survival experience, appealing to the user's survival theme interest."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "survival",
+      "multiplayer"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 6953268,
+    "ranked_ids": [
+      223470,
+      219150,
+      224260,
+      508710,
+      219640,
+      50300,
+      65780,
+      550210,
+      615650,
+      706690
+    ],
+    "explanations": {
+      "223470": "POSTAL 2 is a highly rated action game within the user's price range.",
+      "219150": "Hotline Miami is a well-regarded action game that fits the user's price range and themes.",
+      "224260": "No More Room in Hell is a free multiplayer shooter, aligning with the user's preferences.",
+      "508710": "Project Lounge is a recent multiplayer game with a positive rating, fitting the user's playstyle.",
+      "219640": "Chivalry: Medieval Warfare is a strategic action game, matching the user's inferred themes.",
+      "50300": "Spec Ops: The Line is a highly rated shooter within the user's price range.",
+      "65780": "ARMA: Gold Edition is a strategic shooter similar to ARMA: Cold War Assault, fitting the user's interests.",
+      "550210": "Layers of Fear - Soundtrack is a positively rated game within the user's price range.",
+      "615650": "The Professor Presents: #GotHandles is a free game with a positive rating, suitable for short sessions.",
+      "706690": "Megatronic Void is a low-cost game that fits within the user's budget constraints."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "shooter"
+    ],
+    "uua_confidence": "medium"
+  },
+  {
+    "user_id": 1597109,
+    "ranked_ids": [
+      440,
+      304930,
+      444090,
+      223470,
+      242760,
+      232090,
+      219150,
+      224260,
+      945360,
+      222880
+    ],
+    "explanations": {
+      "440": "Team Fortress 2 is a free-to-play multiplayer shooter that aligns with the user's preference for action and competitive play.",
+      "304930": "Unturned is a free multiplayer survival game that fits the user's interest in co-op and action themes.",
+      "444090": "Paladins® is a free-to-play team-based shooter that matches the user's competitive and multiplayer interests.",
+      "223470": "POSTAL 2 offers a unique action experience at a very low price, fitting the user's budget and action theme preference.",
+      "242760": "The Forest is a co-op survival game that aligns with the user's interest in action and multiplayer themes.",
+      "232090": "Killing Floor 2 is a co-op shooter that fits the user's preference for action and multiplayer games.",
+      "219150": "Hotline Miami offers intense action gameplay at a budget-friendly price, aligning with the user's action theme preference.",
+      "224260": "No More Room in Hell is a free co-op zombie survival game that matches the user's interest in multiplayer and action themes.",
+      "945360": "Among Us is a popular multiplayer game that fits the user's interest in co-op and competitive play.",
+      "222880": "Insurgency is a tactical shooter that aligns with the user's preference for competitive and action gameplay."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "multiplayer",
+      "shooter"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 12179112,
+    "ranked_ids": [
+      294100,
+      236850,
+      289070,
+      646570,
+      255710,
+      282070,
+      435150,
+      107410,
+      203770,
+      268500
+    ],
+    "explanations": {
+      "294100": "RimWorld offers a deep simulation experience similar to Frostpunk, fitting the user's strategy and simulation preferences.",
+      "236850": "Europa Universalis IV is a grand strategy game that aligns well with the user's interest in complex strategy games like Hearts of Iron IV.",
+      "289070": "Sid Meier’s Civilization® VI is a highly rated strategy game within the user's price range, offering multiplayer and challenging gameplay.",
+      "646570": "Slay the Spire provides a challenging strategic experience, aligning with the user's preference for strategy games.",
+      "255710": "Cities: Skylines is a simulation game that matches the user's interest in simulation and strategy, similar to Tabletop Simulator.",
+      "282070": "This War of Mine offers a unique simulation experience with strategic elements, fitting the user's thematic interests.",
+      "435150": "Divinity: Original Sin 2 - Definitive Edition offers challenging multiplayer gameplay, aligning with the user's playstyle preferences.",
+      "107410": "Arma 3 provides a strategic military simulation experience, similar to the user's interest in games like Insurgency.",
+      "203770": "Crusader Kings II is a grand strategy game that fits the user's interest in complex strategy games, despite being free.",
+      "268500": "XCOM® 2 offers a challenging strategy experience, aligning with the user's preference for strategy games like Frostpunk."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "strategy",
+      "simulation"
+    ],
+    "uua_confidence": "medium"
+  },
+  {
+    "user_id": 13208541,
+    "ranked_ids": [
+      403640,
+      205100,
+      418370,
+      214490,
+      239140,
+      337000,
+      238010,
+      292030,
+      379720,
+      241930
+    ],
+    "explanations": {
+      "403640": "Dishonored 2 offers a strong stealth and action experience, aligning with the user's preferences.",
+      "205100": "Dishonored is a classic stealth game with a strong story, fitting the user's playstyle.",
+      "418370": "Resident Evil 7 Biohazard provides a horror experience similar to Tiny Bunny and Prey.",
+      "214490": "Alien: Isolation is a horror game that matches the user's interest in story-driven experiences.",
+      "239140": "Dying Light combines action and horror elements, similar to Prey.",
+      "337000": "Deus Ex: Mankind Divided offers stealth and action gameplay, aligning with the user's interests.",
+      "238010": "Deus Ex: Human Revolution - Director's Cut provides a strong stealth and action experience.",
+      "292030": "The Witcher® 3: Wild Hunt is highly rated and offers a rich story-driven experience.",
+      "379720": "DOOM is a high-action game that fits the user's preference for intense gameplay.",
+      "241930": "Middle-earth™: Shadow of Mordor™ offers action and story-driven gameplay, fitting the user's style."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "stealth",
+      "action",
+      "horror"
+    ],
+    "uua_confidence": "medium"
+  },
+  {
+    "user_id": 9324634,
+    "ranked_ids": [
+      899970,
+      1406990,
+      487430,
+      407310,
+      744520,
+      745850,
+      828580,
+      802870,
+      1129250,
+      844930
+    ],
+    "explanations": {
+      "899970": "NEKOPARA Extra is a direct continuation of the user's favorite series, NEKOPARA.",
+      "1406990": "NEKOPARA Vol. 4 continues the story-driven visual novel experience the user enjoys.",
+      "487430": "KARAKARA offers a similar visual novel experience with high ratings and fits the user's price range.",
+      "407310": "NEKO-NIN exHeart is a well-rated visual novel that aligns with the user's interests.",
+      "744520": "NEKO-NIN exHeart +PLUS Nachi is an affordable addition to the visual novel genre the user likes.",
+      "745850": "KARAKARA2 continues the story from KARAKARA, providing more of the same engaging experience.",
+      "828580": "NEKO-NIN exHeart 2 expands on the series with a similar style and story-driven gameplay.",
+      "802870": "The Ditzy Demons Are in Love With M offers a highly rated visual novel experience.",
+      "1129250": "NEKO-NIN exHeart 3 continues the series with a strong story-driven focus.",
+      "844930": "Fox Hime Zero is a highly rated visual novel that fits the user's thematic preferences."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "visual novel",
+      "co-op"
+    ],
+    "uua_confidence": "medium"
+  },
+  {
+    "user_id": 9627890,
+    "ranked_ids": [
+      930910,
+      970560,
+      970570,
+      460950,
+      391220,
+      304430,
+      206440,
+      319630,
+      292030,
+      268910
+    ],
+    "explanations": {
+      "930910": "STEINS;GATE: Linear Bounded Phenogr is a free visual novel, matching the user's interest in the STEINS;GATE series.",
+      "970560": "STEINS;GATE: My Darling's Embrace is another visual novel from the STEINS;GATE series, aligning with the user's preferences.",
+      "970570": "CHAOS;CHILD is a visual novel with a strong narrative, fitting the user's story-driven playstyle.",
+      "460950": "Katana ZERO is an action game with a strong narrative, similar to Hotline Miami, which the user enjoyed.",
+      "391220": "Rise of the Tomb Raider™ is an action-adventure game, following the user's interest in Tomb Raider.",
+      "304430": "INSIDE is a platformer with a strong narrative, aligning with the user's interest in GRIS and Ori and the Blind Forest.",
+      "206440": "To the Moon is a story-driven game with a strong narrative, fitting the user's playstyle.",
+      "319630": "Life is Strange - Episode 1 is a story-driven game with a strong narrative, matching the user's preferences.",
+      "292030": "The Witcher® 3: Wild Hunt is a highly acclaimed story-driven game, fitting the user's playstyle despite being slightly above the price range.",
+      "268910": "Cuphead is a challenging platformer, aligning with the user's interest in platformers like Ori and the Blind Forest."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "visual novel",
+      "action",
+      "platformer"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 10788978,
+    "ranked_ids": [
+      238320,
+      287390,
+      504230,
+      292030,
+      379720,
+      268910,
+      391220,
+      460950,
+      253230,
+      391540
+    ],
+    "explanations": {
+      "238320": "Outlast is a horror game that aligns with the user's interest in horror themes.",
+      "287390": "Metro: Last Light Redux is a thematic continuation of Metro 2033 Redux, fitting the user's horror and action preferences.",
+      "504230": "Celeste is a story-driven game with a strong narrative, matching the user's playstyle.",
+      "292030": "The Witcher® 3: Wild Hunt offers a rich story-driven experience, aligning with the user's playstyle preferences.",
+      "379720": "DOOM provides action-packed gameplay, fitting the user's action theme preference.",
+      "268910": "Cuphead is a challenging action game that fits within the user's price range and year preference.",
+      "391220": "Rise of the Tomb Raider™ offers action and story-driven gameplay at an affordable price.",
+      "460950": "Katana ZERO is a story-driven action game that fits the user's price range and thematic interests.",
+      "253230": "A Hat in Time is a highly rated game from 2017, fitting the user's preference for story-driven experiences.",
+      "391540": "Undertale is a story-driven game with a unique narrative, aligning with the user's playstyle."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "horror",
+      "action",
+      "puzzle"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 7094854,
+    "ranked_ids": [
+      444090,
+      674940,
+      960090,
+      945360,
+      304930,
+      204360,
+      105600,
+      322330,
+      504370,
+      207140
+    ],
+    "explanations": {
+      "444090": "Paladins® is a free-to-play multiplayer action game, aligning with the user's preference for competitive multiplayer games.",
+      "674940": "Stick Fight: The Game offers multiplayer action with a high positive rating, fitting the user's interest in action and multiplayer themes.",
+      "960090": "Bloons TD 6 is a highly rated strategy game, matching the user's interest in strategy games.",
+      "945360": "Among Us is a popular multiplayer game with a strong social and competitive element, aligning with the user's multiplayer preference.",
+      "304930": "Unturned is a free multiplayer survival game, fitting the user's preference for multiplayer and action themes.",
+      "204360": "Castle Crashers® is a highly rated action multiplayer game, aligning with the user's interest in action and multiplayer themes.",
+      "105600": "Terraria is a highly rated action-adventure game with multiplayer elements, fitting the user's interest in action and multiplayer.",
+      "322330": "Don't Starve Together is a multiplayer survival game, aligning with the user's interest in multiplayer and strategy themes.",
+      "504370": "Battlerite is a free-to-play team-based multiplayer game, fitting the user's preference for competitive multiplayer games.",
+      "207140": "SpeedRunners is a competitive multiplayer racing game, aligning with the user's interest in competitive and multiplayer themes."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "multiplayer",
+      "strategy",
+      "action"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 13962564,
+    "ranked_ids": [
+      244850,
+      294100,
+      457140,
+      1366540,
+      526870,
+      323190,
+      361420,
+      251570,
+      644930,
+      233860
+    ],
+    "explanations": {
+      "244850": "Space Engineers aligns with the user's interest in survival and simulation, similar to Empyrion - Galactic Survival.",
+      "294100": "RimWorld offers a deep simulation and strategy experience, fitting the user's playstyle and price range.",
+      "457140": "Oxygen Not Included provides a complex simulation environment, akin to Surviving Mars.",
+      "1366540": "Dyson Sphere Program is a strategic simulation game, matching the user's interest in Factorio-like games.",
+      "526870": "Satisfactory is a factory-building simulation game, similar to Factorio, and fits the user's price range.",
+      "323190": "Frostpunk combines survival and strategy elements, aligning with the user's inferred themes.",
+      "361420": "ASTRONEER offers a sandbox and exploration experience, fitting the user's playstyle and price range.",
+      "251570": "7 Days to Die is a survival game that matches the user's interest in survival themes.",
+      "644930": "They Are Billions is a strategy game with survival elements, fitting the user's playstyle.",
+      "233860": "Kenshi offers a unique blend of survival and simulation, aligning with the user's preferences."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "survival",
+      "simulation"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 10509497,
+    "ranked_ids": [
+      620,
+      550,
+      304930,
+      945360,
+      223470,
+      218620,
+      674940,
+      204360,
+      362890,
+      105600
+    ],
+    "explanations": {
+      "620": "Portal 2 is a perfect fit with the user's interest in puzzle games and humor, similar to Portal Stories: Mel.",
+      "550": "Left 4 Dead 2 offers co-op multiplayer action, aligning with the user's preference for multiplayer and co-op games.",
+      "304930": "Unturned is a free-to-play multiplayer game, fitting the user's budget and multiplayer interest.",
+      "945360": "Among Us is a popular multiplayer game with a humorous twist, matching the user's playstyle.",
+      "223470": "POSTAL 2 is a humorous game that fits within the user's budget and offers a unique experience.",
+      "218620": "PAYDAY 2 is a co-op multiplayer game that aligns with the user's interest in strategy and multiplayer.",
+      "674940": "Stick Fight: The Game is a humorous multiplayer game that fits the user's budget and playstyle.",
+      "204360": "Castle Crashers® offers co-op multiplayer gameplay with humor, similar to the user's past games.",
+      "362890": "Black Mesa is a highly rated game that fits within the user's budget and offers a unique experience.",
+      "105600": "Terraria is a highly rated game that offers long play sessions, fitting the user's playstyle."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "multiplayer",
+      "puzzle",
+      "strategy"
+    ],
+    "uua_confidence": "medium"
+  },
+  {
+    "user_id": 1082719,
+    "ranked_ids": [
+      304930,
+      945360,
+      359550,
+      4000,
+      550,
+      218620,
+      242760,
+      700330,
+      444090,
+      578080
+    ],
+    "explanations": {
+      "304930": "Unturned is a free-to-play multiplayer survival game, aligning with the user's interest in multiplayer and shooter themes.",
+      "945360": "Among Us is a popular multiplayer game that fits the user's preference for online competitive play.",
+      "359550": "Tom Clancy's Rainbow Six® Siege is a tactical shooter that matches the user's interest in competitive multiplayer shooters.",
+      "4000": "Garry's Mod offers a sandbox multiplayer experience, appealing to the user's multiplayer theme.",
+      "550": "Left 4 Dead 2 is a cooperative multiplayer shooter with horror elements, aligning with the user's themes.",
+      "218620": "PAYDAY 2 is a cooperative multiplayer shooter, fitting the user's interest in multiplayer and shooter games.",
+      "242760": "The Forest is a survival horror game that matches the user's interest in horror and multiplayer themes.",
+      "700330": "SCP: Secret Laboratory is a free multiplayer horror game, aligning with the user's horror and multiplayer interests.",
+      "444090": "Paladins® is a free-to-play multiplayer shooter, fitting the user's competitive and multiplayer playstyle.",
+      "578080": "PUBG: BATTLEGROUNDS is a battle royale shooter, aligning with the user's interest in competitive multiplayer games."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "shooter",
+      "multiplayer",
+      "horror",
+      "idle"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 11166400,
+    "ranked_ids": [
+      284160,
+      227300,
+      457140,
+      20920,
+      1174180,
+      242760,
+      244210,
+      1366540,
+      379720,
+      203160
+    ],
+    "explanations": {
+      "284160": "BeamNG.drive is a highly rated simulation game that fits the user's interest in simulation and racing.",
+      "227300": "Euro Truck Simulator 2 is a top-rated simulation game, aligning with the user's preference for simulation games.",
+      "457140": "Oxygen Not Included is a well-rated simulation game, matching the user's interest in simulation.",
+      "20920": "The Witcher 2: Assassins of Kings is a strong RPG choice, similar to The Witcher 3, which the user enjoyed.",
+      "1174180": "Red Dead Redemption 2 offers a rich single-player RPG experience, fitting the user's RPG theme.",
+      "242760": "The Forest is a highly rated single-player game that offers long sessions, suitable for the user's playstyle.",
+      "244210": "Assetto Corsa is a well-rated racing game, aligning with the user's interest in racing games.",
+      "1366540": "Dyson Sphere Program is a highly rated simulation game, fitting the user's interest in simulation.",
+      "379720": "DOOM is a highly rated single-player game that offers long sessions, suitable for the user's playstyle.",
+      "203160": "Tomb Raider is a highly rated single-player game that offers long sessions, suitable for the user's playstyle."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "rpg",
+      "simulation",
+      "racing"
+    ],
+    "uua_confidence": "medium"
+  },
+  {
+    "user_id": 7009219,
+    "ranked_ids": [
+      945360,
+      960090,
+      1118200,
+      1625450,
+      477160,
+      304930,
+      204360,
+      433340,
+      268910,
+      508440
+    ],
+    "explanations": {
+      "945360": "Among Us is a multiplayer game that fits the user's preference for casual and co-op play.",
+      "960090": "Bloons TD 6 is a casual strategy game that aligns with the user's interest in casual and simulation themes.",
+      "1118200": "People Playground offers creative simulation gameplay, matching the user's creative playstyle.",
+      "1625450": "Muck is a free multiplayer game that fits the user's preference for casual and co-op experiences.",
+      "477160": "Human: Fall Flat is a physics-based puzzle game that supports co-op play, aligning with the user's multiplayer and casual interests.",
+      "304930": "Unturned is a free-to-play multiplayer survival game, fitting the user's multiplayer and casual themes.",
+      "204360": "Castle Crashers® is a co-op multiplayer game that matches the user's preference for casual and creative play.",
+      "433340": "Slime Rancher is a simulation game with creative elements, aligning with the user's interest in simulation and creative play.",
+      "268910": "Cuphead offers a unique art style and challenging gameplay, fitting the user's interest in creative and casual games.",
+      "508440": "Totally Accurate Battle Simulator is a humorous simulation game that fits the user's preference for creative and casual experiences."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "multiplayer",
+      "casual",
+      "simulation"
+    ],
+    "uua_confidence": "medium"
+  },
+  {
+    "user_id": 12176420,
+    "ranked_ids": [
+      294100,
+      526870,
+      242760,
+      244850,
+      457140,
+      1366540,
+      346110,
+      264710,
+      252490,
+      275850
+    ],
+    "explanations": {
+      "294100": "RimWorld offers a deep simulation and sandbox experience similar to Factorio.",
+      "526870": "Satisfactory provides a factory-building simulation akin to Factorio.",
+      "242760": "The Forest is a survival game that aligns with the user's interest in Green Hell.",
+      "244850": "Space Engineers offers a sandbox and simulation experience in space.",
+      "457140": "Oxygen Not Included is a simulation game with survival elements, similar to Factorio.",
+      "1366540": "Dyson Sphere Program is a simulation game with a focus on building and strategy.",
+      "346110": "ARK: Survival Evolved is a survival game released in 2017, matching the user's interest.",
+      "264710": "Subnautica is a survival game with exploration elements, similar to Green Hell.",
+      "252490": "Rust is a survival game that fits the user's interest in survival themes.",
+      "275850": "No Man's Sky offers an open-world exploration experience, aligning with sandbox interests."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "survival",
+      "simulation",
+      "sandbox"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 8243378,
+    "ranked_ids": [
+      242760,
+      359550,
+      444090,
+      945360,
+      230410,
+      304930,
+      346110,
+      218620,
+      264710,
+      105600
+    ],
+    "explanations": {
+      "242760": "The Forest offers a strong survival and exploration experience, aligning with the user's interest in survival games like Valheim.",
+      "359550": "Rainbow Six Siege is a competitive multiplayer shooter, fitting the user's preference for competitive and multiplayer games.",
+      "444090": "Paladins is a free-to-play multiplayer shooter, similar to Brawlhalla and Dota 2, and fits within the user's price range.",
+      "945360": "Among Us is a popular multiplayer game that encourages social interaction and strategy, aligning with the user's multiplayer interest.",
+      "230410": "Warframe is a free-to-play action multiplayer game, offering long sessions and cooperative play, similar to Dota 2.",
+      "304930": "Unturned is a free-to-play survival game, matching the user's interest in survival and multiplayer experiences.",
+      "346110": "ARK: Survival Evolved is a survival game with exploration elements, fitting the user's themes and within the price range.",
+      "218620": "PAYDAY 2 is a cooperative multiplayer game with action elements, aligning with the user's interest in multiplayer and action games.",
+      "264710": "Subnautica offers exploration and survival gameplay, similar to Subnautica: Below Zero, but is a different game.",
+      "105600": "Terraria is a highly rated exploration and survival game, fitting the user's interest in exploration and long sessions."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "multiplayer",
+      "survival"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 4355158,
+    "ranked_ids": [
+      233860,
+      1154040,
+      435150,
+      292030,
+      377160,
+      1174180,
+      323190,
+      287390,
+      203160,
+      305620
+    ],
+    "explanations": {
+      "233860": "Kenshi offers a unique blend of RPG and survival elements, aligning with the user's interest in niche RPGs and survival games.",
+      "1154040": "SpellForce 3: Fallen God fits the user's RPG and strategy preferences, similar to their enjoyment of other SpellForce titles.",
+      "435150": "Divinity: Original Sin 2 - Definitive Edition is a highly acclaimed RPG with strong story-driven elements, matching the user's playstyle.",
+      "292030": "The Witcher 3: Wild Hunt is a story-driven RPG with action elements, though slightly above budget, it's a strong thematic match.",
+      "377160": "Fallout 4 combines RPG and survival elements, fitting the user's interest in long-session, story-driven games.",
+      "1174180": "Red Dead Redemption 2 offers a rich, story-driven experience with action elements, aligning with the user's preferences.",
+      "323190": "Frostpunk is a strategy game with survival themes, similar to RimWorld, which the user has enjoyed.",
+      "287390": "Metro: Last Light Redux offers a story-driven action experience, similar to Metro Exodus, which the user has played.",
+      "203160": "Tomb Raider provides a strong action-adventure experience, aligning with the user's interest in story-driven action games.",
+      "305620": "The Long Dark is a survival game that fits the user's interest in long-session, survival-themed games."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "rpg",
+      "strategy",
+      "action",
+      "survival"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 1483758,
+    "ranked_ids": [
+      1086940,
+      292030,
+      560130,
+      480490,
+      294100,
+      374320,
+      262060,
+      524220,
+      377160,
+      291650
+    ],
+    "explanations": {
+      "1086940": "Baldur's Gate 3 is a highly rated RPG that aligns with the user's preference for story-driven, single-player experiences.",
+      "292030": "The Witcher® 3: Wild Hunt is a critically acclaimed RPG with a strong narrative, fitting the user's story-driven playstyle.",
+      "560130": "Pillars of Eternity II: Deadfire offers a rich RPG experience with strategic elements, matching the user's inferred themes.",
+      "480490": "Prey is a sci-fi game with a strong narrative, aligning with the user's interest in sci-fi and story-driven games.",
+      "294100": "RimWorld is a strategy game with high ratings, fitting the user's strategy theme preference.",
+      "374320": "DARK SOULS™ III is a challenging RPG that fits the user's interest in long-session, story-driven games.",
+      "262060": "Darkest Dungeon® is a strategy RPG with a unique art style, appealing to the user's RPG and strategy interests.",
+      "524220": "NieR:Automata™ offers a unique story-driven experience with RPG elements, aligning with the user's playstyle.",
+      "377160": "Fallout 4 is a well-regarded RPG with sci-fi elements, fitting the user's thematic interests.",
+      "291650": "Pillars of Eternity is a classic RPG with a strong narrative focus, matching the user's preferences."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "rpg",
+      "strategy",
+      "sci-fi"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 11375373,
+    "ranked_ids": [
+      292030,
+      377160,
+      379720,
+      203160,
+      205100,
+      412020,
+      391220,
+      1174180,
+      202970,
+      311210
+    ],
+    "explanations": {
+      "292030": "The Witcher® 3: Wild Hunt is a highly acclaimed RPG with a strong story-driven single-player experience.",
+      "377160": "Fallout 4 offers a rich RPG experience with action elements, fitting the user's preferences.",
+      "379720": "DOOM is a fast-paced shooter that aligns well with the user's interest in action and shooter games.",
+      "203160": "Tomb Raider provides a strong single-player story-driven experience with action elements.",
+      "205100": "Dishonored is a story-driven action game with RPG elements, matching the user's playstyle.",
+      "412020": "Metro Exodus is a story-driven shooter with RPG elements, fitting the user's inferred themes.",
+      "391220": "Rise of the Tomb Raider™ offers a compelling single-player story with action elements.",
+      "1174180": "Red Dead Redemption 2 is a highly rated action RPG with a strong narrative focus.",
+      "202970": "Call of Duty®: Black Ops II is a shooter that fits the user's interest in action games.",
+      "311210": "Call of Duty®: Black Ops III is a shooter that aligns with the user's preference for action games."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "shooter",
+      "rpg"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 11294439,
+    "ranked_ids": [
+      377160,
+      242760,
+      239140,
+      261640,
+      22380,
+      397540,
+      311210,
+      218620,
+      206420,
+      346110
+    ],
+    "explanations": {
+      "377160": "Fallout 4 offers an open-world experience similar to Fallout 3, aligning with the user's preference for open-world games.",
+      "242760": "The Forest is a survival game that matches the user's interest in survival themes.",
+      "239140": "Dying Light combines survival and open-world elements, fitting the user's thematic preferences.",
+      "261640": "Borderlands: The Pre-Sequel is a shooter with multiplayer elements, similar to Borderlands 2.",
+      "22380": "Fallout: New Vegas is an open-world game that complements the user's enjoyment of Fallout 3.",
+      "397540": "Borderlands 3 is a shooter with multiplayer features, aligning with the user's history with Borderlands 2.",
+      "311210": "Call of Duty®: Black Ops III is a shooter with multiplayer modes, similar to Call of Duty®: Infinite Warfare.",
+      "218620": "PAYDAY 2 is a multiplayer shooter, fitting the user's preference for multiplayer and shooter games.",
+      "206420": "Saints Row IV: Re-Elected offers an open-world experience with action elements, similar to the user's interest in open-world games.",
+      "346110": "ARK: Survival Evolved is a survival game that matches the user's interest in survival themes."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "survival",
+      "shooter"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 3480607,
+    "ranked_ids": [
+      4000,
+      508440,
+      304930,
+      945360,
+      236850,
+      218620,
+      674940,
+      236390,
+      242760,
+      22380
+    ],
+    "explanations": {
+      "4000": "Garry's Mod offers a sandbox experience with multiplayer elements, aligning with the user's interest in sandbox and multiplayer games.",
+      "508440": "Totally Accurate Battle Simulator combines humor and strategy, similar to the user's enjoyment of games like Plants vs. Zombies GOTY Edition.",
+      "304930": "Unturned is a free-to-play multiplayer survival game, fitting the user's preference for multiplayer and strategy themes.",
+      "945360": "Among Us is a popular multiplayer game with strategic elements, matching the user's interest in multiplayer and strategy.",
+      "236850": "Europa Universalis IV is a grand strategy game, aligning with the user's interest in strategy games like Hearts of Iron IV.",
+      "218620": "PAYDAY 2 offers cooperative multiplayer gameplay, fitting the user's preference for multiplayer experiences.",
+      "674940": "Stick Fight: The Game is a humorous multiplayer brawler, aligning with the user's interest in humor and multiplayer games.",
+      "236390": "War Thunder is a free-to-play multiplayer game with strategic elements, fitting the user's interest in multiplayer and strategy.",
+      "242760": "The Forest offers a multiplayer survival experience, aligning with the user's interest in multiplayer and sandbox themes.",
+      "22380": "Fallout: New Vegas provides a sandbox experience with strategic elements, similar to the user's interest in sandbox games."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "strategy",
+      "sandbox",
+      "multiplayer"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 6158644,
+    "ranked_ids": [
+      268500,
+      435150,
+      262060,
+      374320,
+      292030,
+      427520,
+      233860,
+      646570,
+      594570,
+      392110
+    ],
+    "explanations": {
+      "268500": "XCOM® 2 is a direct sequel to XCOM: Enemy Unknown, matching the user's strategy theme.",
+      "435150": "Divinity: Original Sin 2 - Definitive Edition is a highly rated RPG, aligning with the user's RPG interest.",
+      "262060": "Darkest Dungeon® offers a challenging RPG experience, fitting the user's preference for long sessions.",
+      "374320": "DARK SOULS™ III provides an action-packed experience, similar to DOOM and NieR:Automata™.",
+      "292030": "The Witcher® 3: Wild Hunt is a critically acclaimed RPG, aligning with the user's RPG theme.",
+      "427520": "Factorio is a strategy game with high ratings, fitting the user's strategy interest.",
+      "233860": "Kenshi offers a unique RPG experience, appealing to the user's interest in niche RPGs.",
+      "646570": "Slay the Spire combines strategy and RPG elements, matching the user's inferred themes.",
+      "594570": "Total War: WARHAMMER II is a strategy game that fits the user's interest in strategy games.",
+      "392110": "ENDLESS™ Space 2 is a strategy game from the same universe as ENDLESS™ Legend, appealing to the user's strategy theme."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "strategy",
+      "rpg",
+      "action"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 2317013,
+    "ranked_ids": [
+      292030,
+      1174180,
+      275850,
+      234140,
+      242760,
+      346110,
+      107410,
+      220200,
+      271590,
+      255710
+    ],
+    "explanations": {
+      "292030": "The Witcher® 3: Wild Hunt is a highly acclaimed open-world action RPG, aligning with the user's interest in open-world and action themes.",
+      "1174180": "Red Dead Redemption 2 offers a rich open-world experience with strong narrative elements, fitting the user's preference for exploration and action.",
+      "275850": "No Man's Sky provides an expansive open-world universe to explore, matching the user's interest in exploration and simulation.",
+      "234140": "Mad Max offers an action-packed open-world experience, similar to the user's interest in games like Just Cause™ 3.",
+      "242760": "The Forest combines survival simulation with exploration, aligning with the user's playstyle and thematic interests.",
+      "346110": "ARK: Survival Evolved offers a blend of action and simulation in an open-world setting, fitting the user's preferences.",
+      "107410": "Arma 3 is a realistic military simulation game, appealing to the user's interest in action and simulation.",
+      "220200": "Kerbal Space Program is a highly rated simulation game, aligning with the user's interest in simulation and niche games.",
+      "271590": "Grand Theft Auto V offers a vast open-world with action elements, fitting the user's thematic interests.",
+      "255710": "Cities: Skylines is a well-regarded simulation game, appealing to the user's interest in simulation and long play sessions."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "simulation",
+      "open-world"
+    ],
+    "uua_confidence": "high"
+  },
+  {
+    "user_id": 1634942,
+    "ranked_ids": [
+      1335360,
+      1132180,
+      1463870,
+      986070,
+      1499220,
+      1557700,
+      1545850,
+      1150400,
+      1492420,
+      1258020
+    ],
+    "explanations": {
+      "1335360": "Chef Chen fits the user's interest in co-op and casual gameplay, similar to Brunch Club.",
+      "1132180": "Persephone is a well-rated game within the user's price range and offers a casual experience.",
+      "1463870": "Jumping Knight is affordable and aligns with the user's casual playstyle.",
+      "986070": "Spirit Oath is highly rated and offers a casual experience at a low price.",
+      "1499220": "Kungfu Cowboy is a well-rated game that fits within the user's price range.",
+      "1557700": "The World After is a recent release with a good rating, fitting the user's price range.",
+      "1545850": "Tetragon is a well-rated game that fits the user's budget and casual playstyle.",
+      "1150400": "The Ancient Labyrinth is a positively rated game that fits the user's budget.",
+      "1492420": "EQUALINE is a highly rated game that fits the user's price range.",
+      "1258020": "SNIKS is a highly rated, affordable game that fits the user's casual playstyle."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "simulation",
+      "co-op"
+    ],
+    "uua_confidence": "medium"
+  },
+  {
+    "user_id": 11852572,
+    "ranked_ids": [
+      1167630,
+      270880,
+      573090,
+      293760,
+      552100,
+      391220,
+      516750,
+      645630,
+      387990,
+      750920
+    ],
+    "explanations": {
+      "1167630": "Teardown offers a unique simulation experience with action elements, aligning with the user's interest in simulation and action games.",
+      "270880": "American Truck Simulator is a highly rated simulation game, fitting the user's preference for simulation and long session play.",
+      "573090": "Stormworks: Build and Rescue combines simulation and multiplayer elements, matching the user's playstyle and thematic interests.",
+      "293760": "Automation - The Car Company Tycoon is a simulation game that fits the user's interest in simulation and is within the price range.",
+      "552100": "Brick Rigs offers a creative simulation experience with multiplayer options, aligning with the user's playstyle preferences.",
+      "391220": "Rise of the Tomb Raider™ is an adventure game similar to Tomb Raider, fitting the user's adventure theme interest.",
+      "516750": "My Summer Car is a niche simulation game that fits the user's interest in simulation and long session play.",
+      "645630": "Car Mechanic Simulator 2018 offers a detailed simulation experience, aligning with the user's interest in simulation games.",
+      "387990": "Scrap Mechanic provides a creative simulation experience with multiplayer options, matching the user's playstyle and thematic interests.",
+      "750920": "Shadow of the Tomb Raider: Definitive Edition is a continuation of the Tomb Raider series, fitting the user's adventure theme interest."
+    },
+    "source": "llm",
+    "error": null,
+    "uua_themes": [
+      "action",
+      "adventure",
+      "simulation"
+    ],
+    "uua_confidence": "medium"
+  }
+]

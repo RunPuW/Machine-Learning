@@ -1,0 +1,5 @@
+group,n_users,ndcg@10,recall@10,hit@10,precision@10
+A_ml_only_knn,50,0.083758,0.13,0.14,0.014
+B_fusion_no_llm,50,0.083758,0.13,0.14,0.014
+C_fusion_ranker,50,0.05528,0.08,0.08,0.008
+D_fusion_full,50,0.0784,0.1,0.1,0.01

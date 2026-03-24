@@ -1,0 +1,402 @@
+[
+  {
+    "user_id": 2569230,
+    "ranked_ids": [
+      49520,
+      391220,
+      203160,
+      292030,
+      883710,
+      397540,
+      1113560,
+      374320,
+      379720,
+      8870
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 11652130,
+    "ranked_ids": [
+      1113560,
+      374320,
+      814380,
+      678960,
+      1057090,
+      646570,
+      588650,
+      637650,
+      460790,
+      460950
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 8870127,
+    "ranked_ids": [
+      284160,
+      573090,
+      440,
+      304930,
+      4000,
+      361420,
+      585420,
+      1167630,
+      620,
+      220
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 9361153,
+    "ranked_ids": [
+      812140,
+      614570,
+      205100,
+      368500,
+      391220,
+      292030,
+      298110,
+      480490,
+      552520,
+      460930
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 5278096,
+    "ranked_ids": [
+      554620,
+      203160,
+      550,
+      8870,
+      444090,
+      1145360,
+      374320,
+      879160,
+      292030,
+      49520
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 11207064,
+    "ranked_ids": [
+      48700,
+      292030,
+      236850,
+      8870,
+      394360,
+      750920,
+      554620,
+      20920,
+      1158310,
+      214950
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 13790320,
+    "ranked_ids": [
+      1248130,
+      270880,
+      447020,
+      227300,
+      518790,
+      239140,
+      431960,
+      346110,
+      292030,
+      253710
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 104348,
+    "ranked_ids": [
+      284160,
+      552520,
+      1118200,
+      270880,
+      621060,
+      227300,
+      787860,
+      1190000,
+      1293830,
+      516750
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 4968496,
+    "ranked_ids": [
+      220,
+      418530,
+      620,
+      113200,
+      440,
+      311690,
+      70,
+      105600,
+      379720,
+      367520
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 11993742,
+    "ranked_ids": [
+      311340,
+      374320,
+      292030,
+      1145360,
+      379720,
+      235460,
+      367520,
+      524220,
+      275850,
+      435150
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 8260163,
+    "ranked_ids": [
+      238960,
+      275850,
+      1091500,
+      1145360,
+      1063730,
+      374320,
+      678950,
+      632360,
+      646570,
+      427520
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 8343503,
+    "ranked_ids": [
+      38410,
+      7670,
+      8870,
+      22380,
+      22370,
+      38420,
+      409710,
+      8980,
+      35140,
+      108710
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 13415660,
+    "ranked_ids": [
+      274170,
+      374320,
+      440,
+      49520,
+      21690,
+      379720,
+      311690,
+      113200,
+      105600,
+      1085660
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 1909838,
+    "ranked_ids": [
+      620,
+      220,
+      4000,
+      945360,
+      550,
+      976730,
+      1085660,
+      960090,
+      374320,
+      362890
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 7749184,
+    "ranked_ids": [
+      292030,
+      1091500,
+      1113560,
+      374320,
+      814380,
+      678950,
+      454650,
+      883710,
+      1172380,
+      637650
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 8366011,
+    "ranked_ids": [
+      227300,
+      787860,
+      552100,
+      293760,
+      645630,
+      1167630,
+      516750,
+      573090,
+      244210,
+      635260
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 7650478,
+    "ranked_ids": [
+      238320,
+      883710,
+      292030,
+      1196590,
+      374320,
+      952060,
+      601430,
+      379720,
+      391220,
+      203160
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 11901229,
+    "ranked_ids": [
+      730090,
+      560960,
+      706690,
+      503110,
+      626700,
+      537060,
+      488160,
+      550210,
+      711390,
+      713060
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 3478810,
+    "ranked_ids": [
+      413410,
+      4000,
+      567640,
+      620,
+      220,
+      550,
+      555950,
+      70,
+      945360,
+      304930
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  },
+  {
+    "user_id": 8487126,
+    "ranked_ids": [
+      271590,
+      242760,
+      252490,
+      578080,
+      431960,
+      218620,
+      239140,
+      730,
+      444090,
+      304930
+    ],
+    "source": "ml_only",
+    "llm_error": null,
+    "explanations": {},
+    "uua_semantic": {},
+    "uua_data_price_median": null
+  }
+]

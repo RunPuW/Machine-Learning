@@ -1,0 +1,11 @@
+ablation_fair.py 成本记录
+========================================
+LLM 调用总次数    : 150
+Fallback 次数     : 0
+估算输入 tokens   : 187,500
+估算输出 tokens   : 75,000
+估算总费用 (USD)  : $2.0625
+
+注：token 数为估算值（input ~1250, output ~500 per call）
+model: openai/gpt-4o
+temperature: 0.0

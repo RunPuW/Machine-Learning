@@ -1,0 +1,1017 @@
+[
+  {
+    "user_id": 2195124,
+    "level": 2,
+    "ranked_ids": [
+      377160,
+      359550,
+      379720,
+      319630,
+      477160,
+      250900,
+      225540,
+      322330,
+      435150,
+      413150
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "8": "Fallout 4 is a highly popular RPG, aligning with the user's interest in RPGs.",
+      "9": "Tom Clancy's Rainbow Six® Siege is a popular action game, fitting the user's action theme.",
+      "3": "Life is Strange - Episode 1 is highly rated and popular, offering a narrative-driven experience.",
+      "24": "DOOM is an overwhelmingly popular action game, matching the user's action interest.",
+      "10": "The Binding of Isaac: Rebirth is a popular and highly rated action game.",
+      "29": "Divinity: Original Sin 2 - Definitive Edition is a top-rated RPG, aligning with the user's RPG interest.",
+      "18": "Stardew Valley is a highly rated game with RPG elements, appealing to the user's RPG interest.",
+      "20": "Don't Starve Together is a popular survival game with action elements.",
+      "2": "Just Cause™ 3 is a very popular action game, fitting the user's action theme.",
+      "5": "DARK SOULS™ II: Scholar of the First Sin is a well-rated RPG, aligning with the user's RPG interest."
+    },
+    "profile": {
+      "inferred_themes": [
+        "RPG",
+        "Action"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "RPG": [
+          "The Elder Scrolls® Online",
+          "Grim Dawn"
+        ],
+        "Action": [
+          "Borderlands 2",
+          "Grim Dawn"
+        ]
+      },
+      "uncertain_games": [
+        "3 Stars of Destiny"
+      ],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 11657682,
+    "level": 2,
+    "ranked_ids": [
+      379720,
+      289070,
+      250900,
+      960090,
+      346110,
+      477160,
+      322330,
+      413150,
+      435150,
+      220200
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "379720": "DOOM is highly popular and offers intense action, appealing to a broad audience.",
+      "289070": "Sid Meier’s Civilization® VI is a top-rated strategy game, aligning with the user's interest in strategy.",
+      "250900": "The Binding of Isaac: Rebirth is a highly popular game with strategic elements.",
+      "960090": "Bloons TD 6 is a very popular strategy game, fitting the user's inferred interest.",
+      "346110": "ARK: Survival Evolved is very popular and offers strategic survival gameplay.",
+      "477160": "Human: Fall Flat is a popular comedic physics-based game, aligning with the user's comedy interest.",
+      "322330": "Don't Starve Together is a popular survival strategy game with cooperative elements.",
+      "413150": "Stardew Valley is a highly popular game with strategic farming and life simulation elements.",
+      "435150": "Divinity: Original Sin 2 - Definitive Edition is a top-rated strategy RPG.",
+      "220200": "Kerbal Space Program is a popular and highly rated strategy and simulation game."
+    },
+    "profile": {
+      "inferred_themes": [
+        "comedy",
+        "strategy"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "comedy": [
+          "South Park™: The Stick of Truth™",
+          "South Park™: The Fractured But Whole™"
+        ],
+        "strategy": [
+          "Age of Empires II: Definitive Edition"
+        ]
+      },
+      "uncertain_games": [
+        "Saints Row: Gat out of Hell"
+      ],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 8782498,
+    "level": 2,
+    "ranked_ids": [
+      252490,
+      427520,
+      294100,
+      239140,
+      394360,
+      232090,
+      233860,
+      264710,
+      365590,
+      323190
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "252490": "Rust is a popular survival game with post-apocalyptic elements, aligning with the user's interest.",
+      "427520": "Factorio is a highly popular simulation game, matching the user's inferred theme.",
+      "294100": "RimWorld is a top-rated simulation game with strategic elements, fitting the user's profile.",
+      "239140": "Dying Light offers a post-apocalyptic setting with survival elements, relevant to the user's interests.",
+      "394360": "Hearts of Iron IV is a military strategy game, aligning with the user's military theme.",
+      "232090": "Killing Floor 2 is a popular co-op shooter with post-apocalyptic themes.",
+      "233860": "Kenshi is a sandbox RPG with survival and simulation elements, fitting the user's interests.",
+      "264710": "Subnautica is a survival game with exploration and simulation aspects, relevant to the user.",
+      "365590": "Tom Clancy’s The Division™ is a military-themed game with post-apocalyptic elements.",
+      "323190": "Frostpunk is a city-building survival game with post-apocalyptic themes, matching the user's interests."
+    },
+    "profile": {
+      "inferred_themes": [
+        "simulation",
+        "military",
+        "post-apocalyptic"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "simulation": [
+          "The Isle",
+          "Microsoft Flight Simulator 40th Anniversary Edition"
+        ],
+        "military": [
+          "Arma 3"
+        ],
+        "post-apocalyptic": [
+          "Metro Exodus"
+        ]
+      },
+      "uncertain_games": [],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 9273665,
+    "level": 2,
+    "ranked_ids": [
+      431960,
+      945360,
+      1085660,
+      433340,
+      552500,
+      578080,
+      1172470,
+      700330,
+      588430,
+      438100
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "431960": "Wallpaper Engine is highly popular and offers customization, appealing to a wide audience.",
+      "945360": "Among Us is a popular multiplayer game, aligning with the user's interest in multiplayer experiences.",
+      "1085660": "Destiny 2 is a popular multiplayer and fantasy game, matching the user's interests.",
+      "433340": "Slime Rancher is a well-received game with fantasy elements, fitting the user's fantasy theme.",
+      "552500": "Warhammer: Vermintide 2 is a multiplayer fantasy game, aligning with the user's interests.",
+      "578080": "PUBG: BATTLEGROUNDS is a popular multiplayer game, fitting the user's multiplayer theme.",
+      "1172470": "Apex Legends is a popular multiplayer game, aligning with the user's interest in multiplayer experiences.",
+      "700330": "SCP: Secret Laboratory is a multiplayer game, matching the user's multiplayer interest.",
+      "588430": "Fallout Shelter is a popular game with fantasy elements, aligning with the user's fantasy theme.",
+      "438100": "VRChat is a popular multiplayer game, fitting the user's multiplayer interest."
+    },
+    "profile": {
+      "inferred_themes": [
+        "Multiplayer",
+        "Sports",
+        "Fantasy"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "Multiplayer": [
+          "Brawlhalla",
+          "STAR WARS™: The Old Republic™"
+        ],
+        "Sports": [
+          "Super Mega Baseball 2"
+        ],
+        "Fantasy": [
+          "Soda Dungeon 2",
+          "STAR WARS™: The Old Republic™"
+        ]
+      },
+      "uncertain_games": [],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 4958219,
+    "level": 2,
+    "ranked_ids": [
+      730,
+      250900,
+      49520,
+      218620,
+      227300,
+      204360,
+      219150,
+      205100,
+      239030,
+      221910
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "730": "Counter-Strike: Global Offensive is a highly popular multiplayer action game, aligning well with the user's inferred themes.",
+      "250900": "The Binding of Isaac: Rebirth is extremely popular and offers action-packed gameplay.",
+      "49520": "Borderlands 2 is a highly popular action game with multiplayer elements, fitting the user's interests.",
+      "218620": "PAYDAY 2 is a popular multiplayer action game, matching the user's inferred themes.",
+      "227300": "Euro Truck Simulator 2 is very popular and offers a unique multiplayer experience.",
+      "204360": "Castle Crashers® is a popular multiplayer action game, aligning with the user's interests.",
+      "219150": "Hotline Miami is a popular action game with a strong following.",
+      "205100": "Dishonored is a highly rated action game, appealing to the user's interest in action themes.",
+      "239030": "Papers Please is a unique and popular game, offering a different kind of action experience.",
+      "221910": "The Stanley Parable is a popular game with a unique narrative experience."
+    },
+    "profile": {
+      "inferred_themes": [
+        "action",
+        "multiplayer"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "action": [
+          "Aliens vs. Predator™",
+          "Tom Clancy's Rainbow Six® Siege"
+        ],
+        "multiplayer": [
+          "Terraria",
+          "Tom Clancy's Rainbow Six® Siege"
+        ]
+      },
+      "uncertain_games": [],
+      "warning": "Profile inferred from only 3 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 11115500,
+    "level": 2,
+    "ranked_ids": [
+      374320,
+      255710,
+      1174180,
+      1145360,
+      427520,
+      239140,
+      232090,
+      294100,
+      548430,
+      244850
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "23": "DARK SOULS™ III is highly popular and fits the action theme.",
+      "27": "Red Dead Redemption 2 is very popular and has historical elements.",
+      "30": "Cities: Skylines is highly popular and offers strategic gameplay.",
+      "17": "Hades is extremely popular and fits the action theme.",
+      "25": "Factorio is highly popular and offers strategic gameplay.",
+      "22": "Dying Light is very popular and fits the action theme.",
+      "21": "Killing Floor 2 is very popular and fits the action theme.",
+      "20": "RimWorld is highly popular and offers strategic gameplay.",
+      "11": "Deep Rock Galactic is highly popular and fits the action theme.",
+      "12": "Slay the Spire is highly popular and offers strategic gameplay."
+    },
+    "profile": {
+      "inferred_themes": [
+        "anime",
+        "action",
+        "historical"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "anime": [
+          "Azur Lane Crosswave",
+          "NieR:Automata™"
+        ],
+        "action": [
+          "NieR:Automata™"
+        ],
+        "historical": [
+          "China: Mao's legacy"
+        ]
+      },
+      "uncertain_games": [
+        "China: Mao's legacy"
+      ],
+      "warning": "Profile inferred from only 3 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 13790546,
+    "level": 2,
+    "ranked_ids": [
+      374320,
+      242760,
+      1145360,
+      232090,
+      239140,
+      629760,
+      620980,
+      646570,
+      632360,
+      284160
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "374320": "DARK SOULS™ III has a very high popularity score and is well-rated, appealing to users interested in challenging strategy games.",
+      "242760": "The Forest is extremely popular and offers a survival experience that may interest strategy enthusiasts.",
+      "1145360": "Hades is highly popular and well-rated, offering strategic gameplay elements.",
+      "232090": "Killing Floor 2 is popular and fits the military theme with its cooperative shooter gameplay.",
+      "239140": "Dying Light is highly popular and offers strategic survival elements, aligning with user interests.",
+      "629760": "MORDHAU is a popular medieval combat game that may appeal to users interested in military themes.",
+      "620980": "Beat Saber is a top-rated VR game, aligning with the user's interest in virtual reality.",
+      "646570": "Slay the Spire is highly popular and offers strategic card gameplay.",
+      "632360": "Risk of Rain 2 is very popular and offers cooperative gameplay with strategic elements.",
+      "284160": "BeamNG.drive is popular and offers a unique driving simulation experience, which may appeal to users interested in strategy."
+    },
+    "profile": {
+      "inferred_themes": [
+        "military",
+        "strategy",
+        "virtual reality"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "military": [
+          "Insurgency: Sandstorm",
+          "Hearts of Iron IV"
+        ],
+        "strategy": [
+          "Hearts of Iron IV"
+        ],
+        "virtual reality": [
+          "BONEWORKS"
+        ]
+      },
+      "uncertain_games": [],
+      "warning": "Profile inferred from only 3 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 93252,
+    "level": 2,
+    "ranked_ids": [
+      960090,
+      346110,
+      289070,
+      945360,
+      220200,
+      413150,
+      211820,
+      739630,
+      322330,
+      581320
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "960090": "Bloons TD 6 is highly popular and offers strategic gameplay, which may appeal to a user interested in building themes.",
+      "346110": "ARK: Survival Evolved combines adventure and building elements, aligning well with the user's inferred themes.",
+      "289070": "Sid Meier’s Civilization® VI is a strategic building game, fitting the user's interest in building themes.",
+      "945360": "Among Us is very popular and offers social deduction gameplay, which could be a fresh experience for the user.",
+      "220200": "Kerbal Space Program involves building and exploration, aligning with the user's interest in building and adventure.",
+      "413150": "Stardew Valley is a popular game with building and adventure elements, matching the user's inferred themes.",
+      "211820": "Starbound offers exploration and building, fitting well with the user's interests.",
+      "739630": "Phasmophobia is a popular adventure game that could appeal to the user's interest in adventure themes.",
+      "322330": "Don't Starve Together is a popular survival game with adventure elements, aligning with the user's interests.",
+      "581320": "Insurgency: Sandstorm is highly popular and could provide a new genre experience for the user."
+    },
+    "profile": {
+      "inferred_themes": [
+        "Adventure",
+        "Building"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "Adventure": [
+          "Tomb Raider"
+        ],
+        "Building": [
+          "Scrap Mechanic",
+          "Brick Rigs",
+          "ISLANDERS"
+        ]
+      },
+      "uncertain_games": [],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 4498285,
+    "level": 2,
+    "ranked_ids": [
+      250900,
+      238460,
+      359550,
+      367520,
+      311690,
+      204360,
+      322330,
+      413150,
+      225540,
+      208650
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "250900": "The Binding of Isaac: Rebirth is a highly popular action-puzzle game, aligning with the user's inferred themes.",
+      "238460": "BattleBlock Theater® is a well-rated action-puzzle platformer, fitting the user's interests.",
+      "359550": "Tom Clancy's Rainbow Six® Siege is a very popular action game, matching the user's action theme.",
+      "367520": "Hollow Knight is a highly acclaimed action-adventure game, appealing to action enthusiasts.",
+      "311690": "Enter the Gungeon is an action-packed game with overwhelming reviews, suitable for action fans.",
+      "204360": "Castle Crashers® is a popular action game with a cooperative element, aligning with the user's action interest.",
+      "322330": "Don't Starve Together is a popular survival game with puzzle elements, fitting the user's puzzle theme.",
+      "413150": "Stardew Valley is a highly popular game with puzzle and exploration elements, appealing to puzzle fans.",
+      "225540": "Just Cause™ 3 is a popular action game with open-world elements, matching the user's action interest.",
+      "208650": "Batman™: Arkham Knight is a well-rated action game, aligning with the user's action theme."
+    },
+    "profile": {
+      "inferred_themes": [
+        "action",
+        "puzzle"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "action": [
+          "Lethal League",
+          "One Finger Death Punch",
+          "SUPERHOT"
+        ],
+        "puzzle": [
+          "Antichamber"
+        ]
+      },
+      "uncertain_games": [],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 12067261,
+    "level": 2,
+    "ranked_ids": [
+      1426210,
+      548430,
+      526870,
+      427520,
+      294100,
+      362890,
+      582010,
+      233860,
+      239140,
+      232090
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "1426210": "It Takes Two is highly popular and offers a unique cooperative experience.",
+      "548430": "Deep Rock Galactic is a popular co-op game with sci-fi elements.",
+      "526870": "Satisfactory is a popular factory-building game with sci-fi themes.",
+      "427520": "Factorio is a highly popular strategy game with complex systems.",
+      "294100": "RimWorld is a popular strategy game with a focus on colony management.",
+      "362890": "Black Mesa is a popular sci-fi game, a reimagining of Half-Life.",
+      "582010": "Monster Hunter: World is a popular action RPG with strategic elements.",
+      "233860": "Kenshi is a popular open-world strategy game with RPG elements.",
+      "239140": "Dying Light is a popular action game with survival elements.",
+      "232090": "Killing Floor 2 is a popular co-op shooter with strategic gameplay."
+    },
+    "profile": {
+      "inferred_themes": [
+        "sci-fi",
+        "strategy"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "sci-fi": [
+          "Haven",
+          "Dyson Sphere Program"
+        ],
+        "strategy": [
+          "Dyson Sphere Program",
+          "HUMANKIND™"
+        ]
+      },
+      "uncertain_games": [
+        "Ruined King: A League of Legends Story™"
+      ],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 8148291,
+    "level": 2,
+    "ranked_ids": [
+      284160,
+      239140,
+      232090,
+      359550,
+      377160,
+      107410,
+      264710,
+      319630,
+      379720,
+      225540
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "284160": "BeamNG.drive is a highly popular simulation game, aligning with the user's interest in simulation.",
+      "239140": "Dying Light is an open-world game with overwhelming reviews, fitting the user's open-world interest.",
+      "232090": "Killing Floor 2 is a popular game with very positive reviews, appealing to a broad audience.",
+      "359550": "Tom Clancy's Rainbow Six® Siege is a very popular game with strong reviews, likely to appeal to the user.",
+      "377160": "Fallout 4 is a very popular open-world game, matching the user's interest in open-world experiences.",
+      "107410": "Arma 3 is a highly popular simulation game, aligning with the user's interest in simulation.",
+      "264710": "Subnautica is an open-world game with overwhelming reviews, fitting the user's open-world interest.",
+      "319630": "Life is Strange - Episode 1 is highly rated and offers a unique narrative experience.",
+      "379720": "DOOM is a highly popular game with overwhelming reviews, appealing to a broad audience.",
+      "225540": "Just Cause™ 3 is a very popular open-world game, matching the user's interest in open-world experiences."
+    },
+    "profile": {
+      "inferred_themes": [
+        "simulation",
+        "open-world"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "simulation": [
+          "Euro Truck Simulator 2",
+          "Cities: Skylines",
+          "American Truck Simulator"
+        ],
+        "open-world": [
+          "Rust"
+        ]
+      },
+      "uncertain_games": [],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 8230321,
+    "level": 2,
+    "ranked_ids": [
+      242760,
+      346110,
+      1174180,
+      377160,
+      383870,
+      244850,
+      268910,
+      262060,
+      379720,
+      270880
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "242760": "The Forest is a popular survival game with multiplayer elements, aligning with the user's interest in multiplayer experiences.",
+      "346110": "ARK: Survival Evolved offers a competitive multiplayer environment, fitting the user's inferred themes.",
+      "1174180": "Red Dead Redemption 2 is highly popular and includes multiplayer modes, appealing to the user's multiplayer interest.",
+      "377160": "Fallout 4 is a popular open-world game with a competitive edge, matching the user's competitive theme.",
+      "383870": "Firewatch is a popular narrative-driven game, providing a different experience while still being highly rated.",
+      "244850": "Space Engineers offers multiplayer and creative building, aligning with the user's multiplayer interest.",
+      "268910": "Cuphead is a challenging game with a competitive nature, appealing to the user's competitive theme.",
+      "262060": "Darkest Dungeon® is a popular, challenging game that fits the competitive theme.",
+      "379720": "DOOM is a highly popular and competitive shooter, aligning with the user's competitive interest.",
+      "270880": "American Truck Simulator is a popular simulation game, offering a different experience while being highly rated."
+    },
+    "profile": {
+      "inferred_themes": [
+        "Multiplayer",
+        "Competitive"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "Multiplayer": [
+          "Fire Pro Wrestling World",
+          "Yu-Gi-Oh! Duel Links",
+          "Rust"
+        ],
+        "Competitive": [
+          "Fire Pro Wrestling World",
+          "Yu-Gi-Oh! Duel Links"
+        ]
+      },
+      "uncertain_games": [
+        "BIGFOOT"
+      ],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 13442621,
+    "level": 2,
+    "ranked_ids": [
+      292030,
+      374320,
+      252490,
+      239140,
+      394360,
+      524220,
+      294100,
+      1238840,
+      782330,
+      1172620
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "292030": "The Witcher® 3: Wild Hunt is highly popular and fits the action theme.",
+      "374320": "DARK SOULS™ III is very popular and aligns with the action theme.",
+      "252490": "Rust is popular and fits the action theme with survival elements.",
+      "239140": "Dying Light is overwhelmingly popular and matches the action theme.",
+      "394360": "Hearts of Iron IV is popular and fits the simulation theme.",
+      "524220": "NieR:Automata™ is popular and fits the action theme.",
+      "294100": "RimWorld is overwhelmingly popular and fits the simulation theme.",
+      "1238840": "Battlefield™ 1 is popular and fits the action theme.",
+      "782330": "DOOM Eternal is popular and fits the action theme.",
+      "1172620": "Sea of Thieves 2023 Edition is popular and fits the action theme."
+    },
+    "profile": {
+      "inferred_themes": [
+        "Action",
+        "Simulation"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "Action": [
+          "DRAGON BALL XENOVERSE 2",
+          "Tom Clancy's Ghost Recon® Wildlands"
+        ],
+        "Simulation": [
+          "American Truck Simulator"
+        ]
+      },
+      "uncertain_games": [],
+      "warning": "Profile inferred from only 3 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 1673244,
+    "level": 2,
+    "ranked_ids": [
+      346110,
+      322330,
+      960090,
+      477160,
+      211820,
+      250900,
+      379720,
+      305620,
+      311690,
+      413150
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "346110": "ARK: Survival Evolved is a popular multiplayer sandbox game, aligning with the user's interests.",
+      "322330": "Don't Starve Together is a highly rated multiplayer game, fitting the user's multiplayer theme.",
+      "960090": "Bloons TD 6 is extremely popular and offers multiplayer features, appealing to the user's interests.",
+      "477160": "Human: Fall Flat is a popular multiplayer game with sandbox elements, matching the user's themes.",
+      "211820": "Starbound is a sandbox game with multiplayer options, aligning with the user's inferred themes.",
+      "250900": "The Binding of Isaac: Rebirth is highly popular and offers a unique sandbox-like experience.",
+      "379720": "DOOM is extremely popular and offers multiplayer modes, appealing to the user's multiplayer interest.",
+      "305620": "The Long Dark is a popular survival game with sandbox elements, fitting the user's sandbox theme.",
+      "311690": "Enter the Gungeon is highly rated and popular, offering a unique multiplayer experience.",
+      "413150": "Stardew Valley is a popular game with sandbox elements, aligning with the user's interests."
+    },
+    "profile": {
+      "inferred_themes": [
+        "sandbox",
+        "multiplayer"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "sandbox": [
+          "Garry's Mod",
+          "BeamNG.drive"
+        ],
+        "multiplayer": [
+          "DEVOUR",
+          "Gorilla Tag"
+        ]
+      },
+      "uncertain_games": [],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 7616516,
+    "level": 2,
+    "ranked_ids": [
+      620,
+      218620,
+      203160,
+      105600,
+      250900,
+      204360,
+      239030,
+      219150,
+      206440,
+      391540
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "620": "Portal 2 is highly popular and offers a cooperative multiplayer mode, aligning with the user's multiplayer interest.",
+      "218620": "PAYDAY 2 is a cooperative multiplayer action game, fitting the user's inferred themes.",
+      "203160": "Tomb Raider is a popular action-adventure game, matching the user's interest in action games.",
+      "105600": "Terraria is a popular multiplayer game with action elements, suitable for the user's preferences.",
+      "250900": "The Binding of Isaac: Rebirth is a highly popular action game, appealing to the user's action theme.",
+      "204360": "Castle Crashers® is a multiplayer action game, aligning well with the user's interests.",
+      "239030": "Papers Please is a unique and highly rated game, offering a different experience that might intrigue the user.",
+      "219150": "Hotline Miami is a popular action game, fitting the user's interest in action themes.",
+      "206440": "To the Moon is a highly rated game with a strong narrative, offering a different experience.",
+      "391540": "Undertale is a highly acclaimed game with unique gameplay, providing a fresh experience."
+    },
+    "profile": {
+      "inferred_themes": [
+        "multiplayer",
+        "action"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "multiplayer": [
+          "Golf With Your Friends",
+          "Just Cause 2: Multiplayer Mod"
+        ],
+        "action": [
+          "FlatOut 2™",
+          "Just Cause 2"
+        ]
+      },
+      "uncertain_games": [],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 8257242,
+    "level": 2,
+    "ranked_ids": [
+      374320,
+      239140,
+      232090,
+      582010,
+      524220,
+      262060,
+      394360,
+      294100,
+      548430,
+      233860
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "374320": "DARK SOULS™ III is highly popular and aligns with the user's interest in action and role-playing themes.",
+      "239140": "Dying Light is an action-packed game with a strong popularity score, fitting the user's action theme.",
+      "232090": "Killing Floor 2 is a popular action game that matches the user's interest in action themes.",
+      "582010": "Monster Hunter: World is a well-received action RPG, aligning with the user's role-playing and action interests.",
+      "524220": "NieR:Automata™ is a popular action RPG, fitting the user's role-playing and action themes.",
+      "262060": "Darkest Dungeon® is a popular role-playing game, aligning with the user's interest in RPGs.",
+      "394360": "Hearts of Iron IV is a popular strategy game, offering a different experience while maintaining high popularity.",
+      "294100": "RimWorld is a highly popular game with strategic elements, offering a unique experience.",
+      "548430": "Deep Rock Galactic is a popular action game, aligning with the user's interest in action themes.",
+      "233860": "Kenshi is a popular RPG, aligning with the user's interest in role-playing themes."
+    },
+    "profile": {
+      "inferred_themes": [
+        "fighting",
+        "role-playing",
+        "action"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "fighting": [
+          "TEKKEN 7"
+        ],
+        "role-playing": [
+          "FINAL FANTASY XII THE ZODIAC AGE"
+        ],
+        "action": [
+          "RUINER"
+        ]
+      },
+      "uncertain_games": [
+        "Hand of Fate"
+      ],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 7510949,
+    "level": 2,
+    "ranked_ids": [
+      431960,
+      289070,
+      674940,
+      391540,
+      391220,
+      211820,
+      322330,
+      435150,
+      413150,
+      367520
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "431960": "Wallpaper Engine is extremely popular and affordable, appealing to a wide audience.",
+      "289070": "Sid Meier’s Civilization® VI is highly popular and offers a narrative-driven strategy experience.",
+      "674940": "Stick Fight: The Game is very popular and offers engaging multiplayer platformer action.",
+      "391540": "Undertale is a narrative-driven game with overwhelming reviews, aligning with user interests.",
+      "391220": "Rise of the Tomb Raider™ is a popular narrative-driven adventure game.",
+      "211820": "Starbound is a popular game with exploration and narrative elements.",
+      "322330": "Don't Starve Together is a popular survival game with narrative elements.",
+      "435150": "Divinity: Original Sin 2 - Definitive Edition is a highly rated narrative-driven RPG.",
+      "413150": "Stardew Valley is a popular game with narrative and exploration elements.",
+      "367520": "Hollow Knight is a highly rated platformer with a strong narrative focus."
+    },
+    "profile": {
+      "inferred_themes": [
+        "narrative-driven",
+        "platformer"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "narrative-driven": [
+          "The Beginner's Guide",
+          "Celeste"
+        ],
+        "platformer": [
+          "Celeste"
+        ]
+      },
+      "uncertain_games": [
+        "Choice Chamber",
+        "GunBlocks - Prologue"
+      ],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 11960175,
+    "level": 2,
+    "ranked_ids": [
+      374320,
+      242760,
+      239140,
+      232090,
+      548430,
+      412020,
+      418460,
+      629760,
+      632360,
+      526870
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "374320": "DARK SOULS™ III is highly popular and offers intense combat, appealing to shooter fans.",
+      "242760": "The Forest is a survival game with a strong military theme, aligning with the user's interests.",
+      "239140": "Dying Light combines action and survival elements, fitting the user's shooter preference.",
+      "232090": "Killing Floor 2 is a cooperative shooter, matching the user's interest in shooter games.",
+      "548430": "Deep Rock Galactic is a cooperative shooter with a military theme, suitable for the user.",
+      "412020": "Metro Exodus is a story-driven shooter, aligning with the user's inferred themes.",
+      "418460": "Rising Storm 2: Vietnam is a military shooter, directly matching the user's interests.",
+      "629760": "MORDHAU offers melee combat with a military setting, appealing to the user's themes.",
+      "632360": "Risk of Rain 2 is a cooperative shooter, fitting the user's interest in shooter games.",
+      "526870": "Satisfactory involves exploration and combat, which may interest a shooter fan."
+    },
+    "profile": {
+      "inferred_themes": [
+        "military",
+        "shooter"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "military": [
+          "SCUM",
+          "Insurgency: Sandstorm",
+          "Hell Let Loose"
+        ],
+        "shooter": [
+          "Insurgency: Sandstorm",
+          "Tom Clancy’s The Division™",
+          "Hell Let Loose"
+        ]
+      },
+      "uncertain_games": [],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 2961315,
+    "level": 2,
+    "ranked_ids": [
+      960090,
+      346110,
+      322330,
+      413150,
+      435150,
+      739630,
+      379430,
+      552500,
+      391540,
+      433340
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "960090": "Bloons TD 6 is highly popular and offers strategic puzzle elements.",
+      "346110": "ARK: Survival Evolved is very popular and supports cooperative gameplay.",
+      "322330": "Don't Starve Together is popular and focuses on cooperative survival.",
+      "413150": "Stardew Valley is popular and offers cooperative and narrative elements.",
+      "435150": "Divinity: Original Sin 2 is popular and known for its cooperative narrative.",
+      "739630": "Phasmophobia is popular and features cooperative gameplay.",
+      "379430": "Kingdom Come: Deliverance is popular and offers a strong narrative experience.",
+      "552500": "Warhammer: Vermintide 2 is popular and focuses on cooperative gameplay.",
+      "391540": "Undertale is popular and known for its unique narrative experience.",
+      "433340": "Slime Rancher is popular and offers a light-hearted puzzle experience."
+    },
+    "profile": {
+      "inferred_themes": [
+        "cooperative",
+        "puzzle",
+        "narrative"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "cooperative": [
+          "Overcooked! 2",
+          "Human: Fall Flat"
+        ],
+        "puzzle": [
+          "Human: Fall Flat",
+          "A Dance of Fire and Ice"
+        ],
+        "narrative": [
+          "Doki Doki Literature Club!"
+        ]
+      },
+      "uncertain_games": [],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  },
+  {
+    "user_id": 8383712,
+    "level": 2,
+    "ranked_ids": [
+      620,
+      218620,
+      204360,
+      105600,
+      203160,
+      250900,
+      220200,
+      205100,
+      219150,
+      239030
+    ],
+    "source": "llm",
+    "error": null,
+    "explanations": {
+      "620": "Portal 2 is a highly popular cooperative multiplayer game, aligning with the user's interest.",
+      "218620": "PAYDAY 2 is a cooperative multiplayer game, matching the user's inferred theme.",
+      "204360": "Castle Crashers® is a cooperative multiplayer game, fitting the user's interest.",
+      "105600": "Terraria is a popular game with cooperative elements, appealing to the user's preferences.",
+      "203160": "Tomb Raider is highly popular and offers engaging gameplay, likely to interest the user.",
+      "250900": "The Binding of Isaac: Rebirth is a popular game with unique gameplay, potentially intriguing the user.",
+      "220200": "Kerbal Space Program is a popular game with creative elements, which might interest the user.",
+      "205100": "Dishonored is a popular game with immersive gameplay, likely to appeal to the user.",
+      "219150": "Hotline Miami is a popular game with intense action, which might attract the user.",
+      "239030": "Papers Please is a unique and highly rated game, potentially intriguing the user."
+    },
+    "profile": {
+      "inferred_themes": [
+        "cooperative multiplayer",
+        "platformer"
+      ],
+      "confidence": "medium",
+      "evidence": {
+        "cooperative multiplayer": [
+          "Left 4 Dead 2"
+        ],
+        "platformer": [
+          "Sonic Adventure 2",
+          "Sonic Generations Collection"
+        ]
+      },
+      "uncertain_games": [
+        "Pool 2D - Poolians"
+      ],
+      "warning": "Profile inferred from only 4 historical items. High uncertainty."
+    }
+  }
+]

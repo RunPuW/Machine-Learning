@@ -1,0 +1,5 @@
+precision@5,recall@5,ndcg@5,hit@5,n_users,precision@10,recall@10,ndcg@10,hit@10,model,K_neighbors,K_eval
+0.016912,0.063719,0.044798,0.081851,1037090.0,,,,,ItemKNN_IDF_score_B,200,5
+,,,,1037090.0,0.013433,0.100363,0.05721,0.128209,ItemKNN_IDF_score_B,200,10
+0.017063,0.064151,0.045088,0.082496,1037090.0,,,,,ItemKNN_IDF_score_B,500,5
+,,,,1037090.0,0.013578,0.101353,0.057691,0.129511,ItemKNN_IDF_score_B,500,10
