@@ -203,10 +203,4 @@ python src/cold_start.py --mode evaluate --n_users 500
 - LLM 相关实验（pipeline、cold_start、ablation_fair 的 C/D 组）需要有效的 OpenRouter API Key
 - 预计 LLM 费用：完整消融约 $2，冷启动 500 用户约 $4
 
----
-
-## 团队成员
-
-Runpu WANG · Pengzhi CUI · Zhiyan WANG · Jiale WU · Ziteng HUANG · Qifan WANG
-
 GitHub: https://github.com/RunPuW/Machine-Learning
