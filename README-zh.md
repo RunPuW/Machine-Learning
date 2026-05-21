@@ -192,6 +192,13 @@ python src/cold_start.py --mode evaluate --n_users 500
 | Popularity | 0.0178 | 0.034 |
 | Level 2 LLM | 0.0235 | 0.040 |
 
+### AI agent
+
+| 组别                     | 用户数 | NDCG@10 | Recall@10 | Hit@10 |
+| :----------------------- | :----- | :------ | :-------- | :----- |
+| ml_only（纯 KNN，无 Agent） | 5000   | 0.0561  | 0.0933    | 0.1280 |
+| ranker_only（+Ranker，无 UUA） | 1000   | 0.0608  | 0.0821    | 0.1000 |
+| full（+UUA+Ranker）       | 1000   | 0.0534  | 0.1088    | 0.1200 |
 ---
 
 ## 注意事项
