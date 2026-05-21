@@ -1,9 +1,7 @@
 # Steam 游戏个性化推荐系统
 
 基于混合召回 + 大语言模型重排的 Steam 游戏推荐系统。
-使用 IDF 加权 ItemKNN 和 SVD 进行候选召回，结合 GPT-4o 驱动的 UUA Agent 和 Ranker Agent 完成语义精排。
-
-CDS524 机器学习课程 · 岭南大学 · 2026
+使用 IDF 加权 ItemKNN 和 SVD 进行候选召回，结合 GPT-4o 驱动的 UUA Agent 和 Ranker Agent 完成语义精排
 
 ---
 
